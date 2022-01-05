@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "fd239a7aeca0ad73",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c7d4ab2167a0ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Euclid's Elements.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "085adb4ecde53922",
+    "type": "split",
+    "children": [
+      {
+        "id": "aedf3d4b8428a684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e09be3f4cd1fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8952e63209bb6a16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc43735f3f5bb037",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c63aa4edc4714ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17081c9bc73728f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Euclid's Elements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c3c7d4ab2167a0ba",
+  "lastOpenFiles": [
+    "Euclid's Elements.md"
+  ]
+}

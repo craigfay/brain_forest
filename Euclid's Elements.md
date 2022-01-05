@@ -47,3 +47,13 @@ Euclid shows how to solve quadratic equations geometrically.
 We look for an *x* such that x^2 = ab. We can solve this by constructing a circle starting from B and taking the length of the vertical line joining B and F.
 
 ![Book 2 Proposition 14](media/euclids_elements_book_2_prop_14.webp)
+
+## Book 3: Circles
+Euclid displays theorems about circles, including:
+* Angles subtended by chords of a circle
+* Horned angles formed by lines tangent to a circle
+
+## Book 4: Inscribed Polygons
+
+## Book 5: ...
+This book is particularly interesting for foundational issues related to **Irrational Numbers**.

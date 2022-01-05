@@ -41,3 +41,9 @@ Euclid offers a visual geometric proof of the equation:
 (a + b)^2 = a^2 + b^2 + 2ab
 
 ![**(a + b)^2 = a^2 + b^2 + 2ab**](media/euclids_elements_book_2_prop_4.webp)
+
+## Book 2 - Proposition 14
+Euclid shows how to solve quadratic equations geometrically.
+We look for an *x* such that x^2 = ab. We can solve this by constructing a circle starting from B and taking the length of the vertical line joining B and F.
+
+![Book 2 Proposition 14](media/euclids_elements_book_2_prop_14.webp)

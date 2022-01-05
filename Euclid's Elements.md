@@ -35,3 +35,9 @@ Euclid visuallized the pythagorean theorem as the sum of the areas of three squa
 He called them Q1, Q2, and Q3, because the ancient Greeks used to like the word "quadrature". Propsition 48 is concerned with the inverse: If areas of such configured squares matches this description, the angle formed by Q1 and Q2 is a right angle.
 
 ![Pythagorean Theorem Construction](media/pythagorean_theorem.webp)
+
+## Book 2 - Proposition 4
+Euclid offers a visual geometric proof of the equation:
+(a + b)^2 = a^2 + b^2 + 2ab
+
+![**(a + b)^2 = a^2 + b^2 + 2ab**](media/euclids_elements_book_2_prop_4.webp)

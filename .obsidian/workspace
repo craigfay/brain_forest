@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c7d4ab2167a0ba",
+        "id": "ef6b72e58b08e158",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Euclid's Elements.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443
+    "width": 264
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euclid's Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +79,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 268,
     "collapsed": true
   },
-  "active": "c3c7d4ab2167a0ba",
+  "active": "ef6b72e58b08e158",
   "lastOpenFiles": [
+    "Early German Romanticism.md",
+    "Jonathan Pageau.md",
+    "The Sacred and the Profane.md",
+    "Post-Modernism.md",
+    "Mysticism.md",
+    "George MacDonald - Phantastes.md",
+    "Elusinian Mysteries.md",
     "Euclid's Elements.md",
-    "Irrational Numbers.md",
-    "media/pythagorean_theorem.webp",
-    "media/euclids_elements_book_2_prop_14.webp",
-    "media/euclids_elements_book_2_prop_14.png",
-    "media/euclids_elements_book_2_prop_4.webp",
-    "media/euclids_elements_book_2_prop_4.jpeg",
-    "media/pythagorean_theorem.md",
-    "media/pythagorean_theorem.jpeg",
-    "media/equilateral_triangle_construction.webp"
+    "Novalis.md",
+    "Irrational Numbers.md"
   ]
 }

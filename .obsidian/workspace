@@ -7,12 +7,8 @@
         "id": "2ee517c4ad60598c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 352
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
+    "markdown/Cooking and Food Chemistry.md",
     "README.md",
     "markdown/Demeter.md",
     "markdown/Early German Romanticism.md",
@@ -97,7 +93,6 @@
     "markdown/Ancient Greece.md",
     "markdown.md",
     "markdown/The Standard Model of Physics.md",
-    "markdown/Bosons.md",
-    "markdown/Fermions.md"
+    "markdown/Bosons.md"
   ]
 }

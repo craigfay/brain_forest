@@ -82,4 +82,10 @@ The greeks were famously confounded by the following discovery: Given any square
 
 This irrationality also arises from studying the [[Circle of Fifths]]. By repeatedly traveling upwards by perfect fifths, you should arrive back to a multiple of your original tone after twelve steps. This corresponds to the fact that you can take (3/2)^12 to produce 129.7. This value is frustratingly close to 2^7 = 128. This fact is the source of much subtle difficulty in the theory of music in preceding millenia.
 
+Dealing with proportions that are commensurable is relatively easy. We can express equalities and inequalities between two proportions in the following ways:
+* a:b = c:d <=> a\*d = b\*c
+* a:b < c:d <=> a\*d < b\*c
+* a:b > c:d <=> a\*d > b\*c
+
+Unfortunately, this type of arithmetic only works for commensurate proportions. The question that Euclid had to surmount the problem of comparing two proportions that weren't necessarily commensurate. This problem was solved by [[Eudoxus]], and described here in Book 5 by Euclid.
 

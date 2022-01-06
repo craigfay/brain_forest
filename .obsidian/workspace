@@ -7,12 +7,8 @@
         "id": "2ee517c4ad60598c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Euclid's Elements.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euclid's Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +85,14 @@
   "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
     "Euclid's Elements.md",
+    "Circle of Fifths.md",
+    "Musical Interval.md",
+    "Norman J Wildberger.md",
+    "Irrational Numbers.md",
     "George MacDonald - Phantastes.md",
     "Jonathan Pageau.md",
     "Mysticism.md",
     "Novalis.md",
-    "Persephone.md",
-    "Post-Modernism.md",
-    "The Sacred and the Profane.md",
-    "Zeus.md",
-    "Elusinian Mysteries.md"
+    "Persephone.md"
   ]
 }

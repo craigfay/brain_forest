@@ -1,5 +1,5 @@
 # Euclid's Elements
-(As taught by [[Norman J. Wildberger]])
+(As taught by [[Norman J Wildberger]])
 
 Written by Euclid in 300 B.C. in [[Ancient Greece|Greece]].
 
@@ -71,7 +71,7 @@ The greeks thought of two magnitudes as **commensurable** if they were both mult
 
 Because the third magnitue in this definition could be arbitrarily small, the greeks thought that all magnitudes were commensurable, and they were quite shocked to discover otherwise.
 
-The pythagoreans had a theory about how proportions could explain many aspects of the world, most notably, cosmic motion and the theory of music. We now have formal names for [[intervals between two tones]] whose frequencies form particular ratios:
+The pythagoreans had a theory about how proportions could explain many aspects of the world, most notably, cosmic motion and the theory of music. We now have formal names for [[Musical Interval|intervals between two tones]] whose frequencies form particular ratios:
 
 * 2:1 - Octave
 * 3:2 - Fifth

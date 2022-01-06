@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6b72e58b08e158",
+        "id": "2ee517c4ad60598c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Euclid's Elements.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Euclid's Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "ef6b72e58b08e158",
+  "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
-    "Early German Romanticism.md",
-    "Jonathan Pageau.md",
-    "The Sacred and the Profane.md",
-    "Post-Modernism.md",
-    "Mysticism.md",
-    "George MacDonald - Phantastes.md",
-    "Elusinian Mysteries.md",
     "Euclid's Elements.md",
+    "George MacDonald - Phantastes.md",
+    "Jonathan Pageau.md",
+    "Mysticism.md",
     "Novalis.md",
-    "Irrational Numbers.md"
+    "Persephone.md",
+    "Post-Modernism.md",
+    "The Sacred and the Profane.md",
+    "Zeus.md",
+    "Elusinian Mysteries.md"
   ]
 }

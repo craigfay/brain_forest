@@ -1,5 +1,5 @@
 # Euclid's Elements
-Written by Euclid in 300 B.C.
+Written by Euclid in 300 B.C. in [[Ancient Greece|Greece]].
 
 ## Introduction: Definitions
 Euclid introduces (how many?) definitions, most notably:
@@ -57,3 +57,5 @@ Euclid displays theorems about circles, including:
 
 ## Book 5: ...
 This book is particularly interesting for foundational issues related to **Irrational Numbers**.
+
+

@@ -7,8 +7,12 @@
         "id": "2ee517c4ad60598c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,7 @@
   },
   "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "README.md.md",
     "Euclid's Elements.md",
     "Eudoxus.md",
     "Circle of Fifths.md",

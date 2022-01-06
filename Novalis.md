@@ -1,2 +1,0 @@
-# Novalis
-**Georg Philipp Friedrich Freiherr von Hardenberg** (2 May 1772 – 25 March 1801), better known by his pen name **Novalis**, was an 18th-century German aristocrat, poet, author, [mystic](Mysticism) and philosopher of [[Early German Romanticism]]

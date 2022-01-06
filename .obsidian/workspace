@@ -7,8 +7,12 @@
         "id": "2ee517c4ad60598c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
-    "The Standard Model of Physics.md",
-    "Bosons.md",
-    "Fermions.md",
-    "Particle Spin.md",
     "README.md",
-    "Euclid's Elements.md",
-    "Eudoxus.md",
-    "Circle of Fifths.md",
-    "Musical Interval.md",
-    "Norman J Wildberger.md"
+    "markdown/Demeter.md",
+    "markdown/Early German Romanticism.md",
+    "markdown/Circle of Fifths.md",
+    "markdown/Jonathan Pageau.md",
+    "markdown/Ancient Greece.md",
+    "markdown.md",
+    "markdown/The Standard Model of Physics.md",
+    "markdown/Bosons.md",
+    "markdown/Fermions.md"
   ]
 }

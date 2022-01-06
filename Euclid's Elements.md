@@ -1,4 +1,6 @@
 # Euclid's Elements
+(As taught by [[Norman J. Wildberger]])
+
 Written by Euclid in 300 B.C. in [[Ancient Greece|Greece]].
 
 ## Introduction: Definitions
@@ -55,7 +57,29 @@ Euclid displays theorems about circles, including:
 
 ## Book 4: Inscribed Polygons
 
-## Book 5: ...
-This book is particularly interesting for foundational issues related to **Irrational Numbers**.
+## Book 5: Proportions
+This book is particularly interesting for foundational issues related to **Irrational Numbers**. The greeks thought of **magnitude** as a fundamental object of interest. Magnitude was similar to the modern idea of a **number**, but without a unit. They would have said that lines, areas, and angles all have magnitude.  Instead of algebraicly, they were thinking geometrically.
+
+They believed that some operations were always possible:
+* Check which of two magnitudes was greater.
+* Form whole-number multiples of any magnitude.
+
+They believed that the proportions between magnitudes were more important than the magnitudes themselves.
+
+## Book 5: Commensurability
+The greeks thought of two magnitudes as **commensurable** if they were both multiples of a third magnitude. As modern people, we would instead say that these two magnitudes have a **common factor**.
+
+Because the third magnitue in this definition could be arbitrarily small, the greeks thought that all magnitudes were commensurable, and they were quite shocked to discover otherwise.
+
+The pythagoreans had a theory about how proportions could explain many aspects of the world, most notably, cosmic motion and the theory of music. We now have formal names for [[intervals between two tones]] whose frequencies form particular ratios:
+
+* 2:1 - Octave
+* 3:2 - Fifth
+* 4:3 - Fourth
+* 16:9 - Minor Seventh (a composition of two perfect fourths)
+
+The greeks were famously confounded by the following discovery: Given any square, the length of its side and the length of its diagonal are not commensurable. This leads to the theory of [[Irrational Numbers]]. Today, we would say that this ratio is proportional to the square root of 2, but the greeks didn't have a way of conceptualizing roots.
+
+This irrationality also arises from studying the [[Circle of Fifths]]. By repeatedly traveling upwards by perfect fifths, you should arrive back to a multiple of your original tone after twelve steps. This corresponds to the fact that you can take (3/2)^12 to produce 129.7. This value is frustratingly close to 2^7 = 128. This fact is the source of much subtle difficulty in the theory of music in preceding millenia.
 
 

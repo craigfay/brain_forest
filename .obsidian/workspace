@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node Package Manager.md",
+            "file": "markdown/Node Package Manager.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Package Manager.md",
+                "file": "markdown/Node Package Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "2ee517c4ad60598c",
   "lastOpenFiles": [
-    "Node Package Manager.md",
+    "markdown/Node Package Manager.md",
     "markdown/Removing Large Files From Git Repos.md",
     "markdown/Git Reflog.md",
     "markdown/Fermions.md",

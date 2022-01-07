@@ -89,3 +89,32 @@ Dealing with proportions that are commensurable is relatively easy. We can expre
 
 Unfortunately, this type of arithmetic only works for commensurate proportions. The question that Euclid had to surmount the problem of comparing two proportions that weren't necessarily commensurate. This problem was solved by [[Eudoxus]], and described here in Book 5 by Euclid.
 
+## Book 6: Similar Figures
+* Rules for identifying similar triangles
+
+## Book 7,8,9: Number Theory
+Not directly related to geometry.
+
+## Book 10: Incommensurable Numbers
+- How to deal with nested radicals.
+
+## Book 11,12,13: Solid Geometry (3D)
+- A **solid** is that which has length, breadth, and depth.
+- An extremity of a solid is a **surface**.
+- A straight line is at right angles to a plane when it makes right angles with all line in the plane that meets it.
+
+These later books represent Euclid biting off more than he can chew; 3D geometry is difficult, and Euclid makes a number of mistakes and logical inconsistencies.
+
+Proposition 2 of Book 12 states: Circles are to each other as squares on the diameters. We would say that the area of a circle is proportional to the square of it's radius. Euclid knew that this should be demonstrated, and employed [[Eudoxus|Eudoxus' theory of exhaustion]].
+
+## The 5 Platonic Solids
+This part of the text culminates in a description of the 5 platonic solids:
+- Tetrahedron
+- Cube
+- Octahedron
+- Icosahedron
+- Dodecahedron
+
+## Interpretation
+Despite its shortcomings, *Elements* was substantial enough to form a groundwork for the next 2000 years of mathematics.
+

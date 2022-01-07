@@ -51,7 +51,7 @@ pick 32038ca hydrate
 Save and Quit using `:wq` to apply your changes.
 
 ## Remove Dangling Objects
-Even if particular files are deleted from your commit history, they may still be in use by your branch's [[Git Reflog|reference log]]. Use the following commands to remove dangling files:
+Even if particular files are deleted from your commit history, they may still be in use by your branch's [[Git - Reflog|reference log]]. Use the following commands to remove dangling files:
 
 ```
 git reflog expire --expire=now --all

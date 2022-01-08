@@ -1,4 +1,6 @@
 # Removing Large Files From Git Repos
+It's not uncommon to accidentally (or intentionally) store oversized files in a [[Git]] repository. Once this change is made, it can be make working with the repo painfully slow, and the mistake can be difficult to reverse.
+
 ## Alter Commit History Using Rebase
 - Find the commit hash of the last good state.
 - Start an interactive rebase using  `git rebase -i <last-good-hash>`. This will open a `vi` editor, where you can modify the history between `HEAD` and `<last-good-hash>`.

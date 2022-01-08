@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ee517c4ad60598c",
+        "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Euclid's Elements.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Euclid's Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "2ee517c4ad60598c",
+  "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/Vector Space.md",
+    "markdown/Operators.md",
+    "markdown/Jacobi Identity.md",
+    "markdown/Lie Algebras.md",
+    "markdown/Associativity.md",
+    "markdown/Elusinian Mysteries.md",
     "markdown/Euclid's Elements.md",
-    "markdown/Eudoxus.md",
-    "markdown/Git - Removing Large Files from History.md",
-    "markdown/Git - Reflog.md",
-    "markdown/Git.md",
-    "markdown/Node Package Manager.md",
-    "markdown/Fermions.md",
-    "markdown/Cooking and Food Chemistry.md",
-    "README.md",
-    "markdown/Demeter.md"
+    "markdown/Geometry.md",
+    "markdown/The Standard Model of Physics.md",
+    "markdown/Fermions.md"
   ]
 }

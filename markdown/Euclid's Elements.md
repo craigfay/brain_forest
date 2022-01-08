@@ -1,7 +1,7 @@
 # Euclid's Elements
 (As taught by [[Norman J Wildberger]])
 
-Written by Euclid in 300 B.C. in [[Ancient Greece|Greece]].
+Written by Euclid in [[Ancient Greece|Greece circa 300 B.C.]], *Elements* is still considered a landmark text in [[Geometry]]. Despite its shortcomings, it is largely described as the foundation for for preceding 2000 years of mathematics since it's creation.
 
 ## Introduction: Definitions
 Euclid introduces (how many?) definitions, most notably:
@@ -115,6 +115,4 @@ This part of the text culminates in a description of the 5 platonic solids:
 - Icosahedron
 - Dodecahedron
 
-## Interpretation
-Despite its shortcomings, *Elements* was substantial enough to form a groundwork for the next 2000 years of mathematics.
 

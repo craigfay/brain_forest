@@ -7,8 +7,12 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/George MacDonald - Phantastes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/George MacDonald - Phantastes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/George MacDonald - Phantastes.md",
     "markdown/Vector Space.md",
     "markdown/Operators.md",
     "markdown/Jacobi Identity.md",
@@ -92,7 +98,6 @@
     "markdown/Elusinian Mysteries.md",
     "markdown/Euclid's Elements.md",
     "markdown/Geometry.md",
-    "markdown/The Standard Model of Physics.md",
-    "markdown/Fermions.md"
+    "markdown/The Standard Model of Physics.md"
   ]
 }

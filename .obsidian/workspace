@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/George MacDonald - Phantastes.md",
+            "file": "Constructing Complex Numbers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/George MacDonald - Phantastes.md",
+                "file": "Constructing Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "Constructing Complex Numbers.md",
+    "Problems with Contemporary Mathematics.md",
+    "markdown/Geometry - History.md",
+    "Thales.md",
+    "markdown/Geometry.md",
+    "Apollonius.md",
+    "markdown/Elusinian Mysteries.md",
     "markdown/George MacDonald - Phantastes.md",
     "markdown/Vector Space.md",
-    "markdown/Operators.md",
-    "markdown/Jacobi Identity.md",
-    "markdown/Lie Algebras.md",
-    "markdown/Associativity.md",
-    "markdown/Elusinian Mysteries.md",
-    "markdown/Euclid's Elements.md",
-    "markdown/Geometry.md",
-    "markdown/The Standard Model of Physics.md"
+    "markdown/Operators.md"
   ]
 }

@@ -51,3 +51,12 @@ We're looking at 2x2 matrices of the form:
 Each one of these is a 2 dimensional subalgebra of the 2x2 matrices. This means that each one of them is closed under addition, scalar multiplication, (scalar refers to elements in the field), and multiplication. If you do any of these operations on a matrix of this form, you will produce another matrix of this form. They are also all commutative! Usually when we use matrices, we have to deal with the complexity of having multiplication that is non-commutative. Now we have a 2-dimensional version of F that is still commutative.
 
 The original elements are preserved in this system as the diagonal entries of each matrix.
+
+### Conjugation
+The conjugate of any dihedron:
+[a, b; c, d] is [d, -b; -c, a].
+
+Importantly, conjugation commutes:
+conj(r) * r = r * conj(r)
+
+The properties of the conjugate makes the dihedral complex numbers D a "star-algebra"

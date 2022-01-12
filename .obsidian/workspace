@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Constructing Complex Numbers using Dihedrons.md",
+            "file": "markdown/George MacDonald - Phantastes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Constructing Complex Numbers using Dihedrons.md",
+                "file": "markdown/George MacDonald - Phantastes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/George MacDonald - Phantastes.md",
     "markdown/Constructing Complex Numbers using Dihedrons.md",
     "markdown/Problems with Contemporary Mathematics.md",
     "markdown/Geometry - History.md",
@@ -96,7 +97,6 @@
     "markdown/Geometry.md",
     "markdown/Apollonius.md",
     "markdown/Elusinian Mysteries.md",
-    "markdown/George MacDonald - Phantastes.md",
     "markdown/Vector Space.md",
     "markdown/Operators.md"
   ]

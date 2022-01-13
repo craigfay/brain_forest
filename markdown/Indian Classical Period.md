@@ -1,0 +1,1 @@
+The period of Indian [[Antiquity and Humanities|history]] roughly between 200 BC and 1200 AD.

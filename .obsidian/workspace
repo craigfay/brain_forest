@@ -7,12 +7,8 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/George MacDonald - Phantastes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/George MacDonald - Phantastes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
-    "markdown/George MacDonald - Phantastes.md",
-    "markdown/Constructing Complex Numbers using Dihedrons.md",
-    "markdown/Problems with Contemporary Mathematics.md",
-    "markdown/Geometry - History.md",
-    "markdown/Thales.md",
-    "markdown/Geometry.md",
-    "markdown/Apollonius.md",
-    "markdown/Elusinian Mysteries.md",
+    "markdown/Trace (Operation).md",
+    "markdown/Linear Algebra.md",
+    "Spherical Trigonometry.md",
+    "markdown/Mathematics.md",
     "markdown/Vector Space.md",
-    "markdown/Operators.md"
+    "markdown/Thales.md",
+    "markdown/Cooking and Food Chemistry.md",
+    "markdown/Apollonius.md",
+    "markdown/Pythagorean Theorem.md",
+    "markdown/Indian Classical Period.md"
   ]
 }

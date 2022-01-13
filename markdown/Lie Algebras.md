@@ -17,7 +17,7 @@ If we add a condition that the inverse of a matrix must be the hermitian conjuga
 ## sL(2)
 [as taught by André Henriques](https://www.youtube.com/watch?v=Qw5jonrLbPU)
 
-The Lie Algebra sL(2) is the set of 2 x 2 matrices whose [[Linear Algebra - Trace|trace]] is 0. This set has 3 elements that we'll call H, E, and F: (Using row-major ordering)
+The Lie Algebra sL(2) is the set of 2 x 2 matrices whose [[Trace (Operation)|trace]] is 0. This set has 3 elements that we'll call H, E, and F: (Using row-major ordering)
 - H = [1, 0; 0, -1]
 - E = [0, 1; 0, 0]
 - F = [0, 0; 1, 0]

@@ -1,0 +1,2 @@
+# Spherical Trigonometry
+In [[Mathematics]], spherical trigonometry is the study of triangles on the surface of a sphere. Although modern people emphasize planar trigonometry, ancient people considered spherical trigonometry much more interesting because of its utility for [[Astronomy]].

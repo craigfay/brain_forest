@@ -1,2 +1,2 @@
 # Ancient Greece
-A [[Humanities|ancient]] mediterranean civilization whose ideas and inventions are still salient today.
+A [[Antiquity and Humanities|ancient]] mediterranean civilization whose ideas and inventions are still salient today.

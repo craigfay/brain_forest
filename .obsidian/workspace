@@ -7,8 +7,12 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Dihedrons.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Dihedrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/Dihedrons.md",
+    "markdown/Demeter.md",
+    "media/equilateral_triangle_construction.webp",
+    "markdown/The Sacred and the Profane.md",
     "markdown/Trace (Operation).md",
     "markdown/Linear Algebra.md",
-    "Spherical Trigonometry.md",
+    "markdown/Spherical Trigonometry.md",
     "markdown/Mathematics.md",
     "markdown/Vector Space.md",
-    "markdown/Thales.md",
-    "markdown/Cooking and Food Chemistry.md",
-    "markdown/Apollonius.md",
-    "markdown/Pythagorean Theorem.md",
-    "markdown/Indian Classical Period.md"
+    "markdown/Thales.md"
   ]
 }

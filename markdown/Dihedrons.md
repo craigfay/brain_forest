@@ -1,3 +1,5 @@
+
+## Construct Complex Numbers using Dihedrons
 According to [[Norman J Wildberger]].
 https://www.youtube.com/watch?v=XoTeTHSQSMU
 
@@ -34,7 +36,7 @@ Consequences:
 ## Instructions for Building
 1) Start with a field F. We can use an unbounded field if we insist, but it needs a different treatment.
 2) Choose a geometry. There are three nice choices: One is Euclidean, and the other two are Relativistic ([[Chromogeometry]]).
-3) Construct a quadratic inverse algebra: Either Cr(F), Cg(F), or Cb(F). These stand for red, green, and blue, and blue is the Euclidean flavor. This involves using the [[Linear Algebra]] of 2x2 matrices over the field F. Wildberger suggests that earlier mathmaticians struggled to understand the role of the complex numbers because an unfamiliarity with linear algebra.
+3) Construct a quadratic inverse algebra: Either Cr(F), Cg(F), or Cb(F). These stand for red, green, and blue, and blue is the Euclidean flavor. This involves using the [[Linear Algebra]] of 2x2 matrices over the field F. Wildberger suggests that earlier mathmaticians struggled to understand the role of the [[Complex Numbers]] because an unfamiliarity with linear algebra.
 
 ### Blue
 We're looking at 2x2 matrices of the form:
@@ -115,3 +117,60 @@ cross([x1, y1, z1], [x2, y2, z2]) = [
 NJ Wildberger's PhD student Genadiy Wado Wadigdo wrote a thesis on this story. It's all about the general theory of dot and cross products in 3D space.
 
 We can represent [[Quaternions]] as a 2x2 matrix of Dihedral complex numbers. 
+
+
+## Relativistic Geometry
+https://www.youtube.com/watch?v=qcmH0iKRF2w
+
+The relativistic quadratic form is:
+Q(v) = dot(v, v) = x^2 + y^2 - z^2
+
+Q represents "[[Quadrance]]".
+
+This form has its origin in Einstein's Special [[Relativity]], and the [[Hyperbaloid]] geometric representation was promoted by [[Herman Minkowski]].
+
+![Hyperboloid](/media/minkowski_hyperboloid.png)
+
+
+The Euclidean analog of the 3D quadratic form produces either a sphere (of varying size) or a point.
+
+Wildberger is interested in the abstract behavior of such a geometry, which can be applied to any type of field. 
+
+It's helpful to visualize the geometry of the Dihedron Algebra in a cross-sectional way; If we imagine it only at a single point in time, we can visualize the other dimensions as a 3D shape. The volume of the shape represents values of z,y,z that are solutions to whatever value we choose for t.
+
+x,y,z represent the dihedral i,j,k, and the x direction is visualized as running vertically.
+
+The 3D square (S3) in 4D dihedral geometry is given by:
+`t^2 + z^2 - y^2 - z^2 = 1`
+
+
+## When t = 0
+This is the analog of taking a cross-section in the middle of a Euclidean sphere with radius 1.
+
+`x^2 - y^2 - z^2 = 1`.
+
+This is not the Euclidean sphere that we're used to. Instead we call it [[SL(2)]]. The solution space looks like a "hyperboloid of 2 sheets". There are no solutions to this equation when `abs(x) < 1`. 
+
+## When t = 1
+`x^2 - y^2 - z^2 = 0`
+
+Vectors that satisfy Q(v) = 0 are called **Null Cones**, and correspond to the trajectory of photons. They look like two cones touching What is the euclidean analog of this case? 
+
+
+## When t = 2
+This is the analog of taking the cross section of a sphere at a point outside of the sphere. This produces no solutions (no volume) in the Euclidean case, but not in the relativistic case!
+
+`x^2 - y^2 - z^2 = -3`
+
+
+**How does this relativistic story about the geometry of the dihedrons connect to an explanation of the complex numbers?**
+
+Dihedrons are just 2x2 matrices over a field. Nothing special going on. The operations are just the usual matrix operations.
+
+The sphere (given by the relativistic quadratic form) is of interest. Let's look at it by taking 2D slices (not 3D!). 
+
+![2D Cross Sections](/media/dihedral_2d_cross_sections.png)
+
+First we'll set both y and z to 0. (`t^2 + x^2 = 1`) This will produce matrices of the form `[t, x; -x, t]`. This is the familiar complex number in 2x2 matrix form. All of the properties of the complex numbers are derived from bigger and better properties of matrices! In particular, the quadratic form is just the [[Determinant (Operation)|Determinant]].
+
+

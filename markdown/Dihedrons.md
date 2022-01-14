@@ -127,7 +127,7 @@ Q(v) = dot(v, v) = x^2 + y^2 - z^2
 
 Q represents "[[Quadrance]]".
 
-This form has its origin in Einstein's Special [[Relativity]], and the [[Hyperbaloid]] geometric representation was promoted by [[Herman Minkowski]].
+This form has its origin in Einstein's Special [[Relativity]], and the [[Hyperboloid]] geometric representation was promoted by [[Herman Minkowski]].
 
 ![Hyperboloid](/media/minkowski_hyperboloid.png)
 

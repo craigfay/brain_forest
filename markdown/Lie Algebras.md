@@ -1,5 +1,5 @@
 # Lie Algebras
-In [[Mathematics]], a Lie Algebra is a [[Associativity|non-associative]] algebra formed by the union of:
+In [[Mathematics]], a Lie [[Algebra]] is a [[Associativity|non-associative]] algebra formed by the union of:
 - A [[Vector Space]] *G*
 - An [[Operators|operation]] called the "Lie Bracket"
 - An alternating Bi-linear map that satisfies the [[Jacobi Identity]].

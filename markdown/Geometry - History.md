@@ -38,4 +38,4 @@ The Greeks represent a shift towards interest in abstract mathematics, including
 - The [[Indian Classical Period|Classical Period]] produces lots of astronomical work, including Sine Tables, and [[Brahmahgupta]]'s formula for the area of a cyclic quadrilateral, (whose 4 vertices sit on the edge of a circle). This is a less general counterpart to a formula for the area of a triangle that used to be taught in contemporary math education, but is no longer.
 
 ### Islamic / Arabic Period
-- 800 - 1500 AD, Islamic mathematicians are concerned with the celestial sphere of the night sky. This has everything to do with [[Spherical Trigonometry]]. [[Buzjani]] was one of several people who developed the [[Law of Sines]], and [[al-Tusi]] introduced the [[Law of Cosines]].
+- 800 - 1500 AD, Islamic mathematicians are concerned with the celestial sphere of the night sky. This has everything to do with [[Trigonometry|Spherical Trigonometry]]. [[Buzjani]] was one of several people who developed the [[Trigonometry|Law of Sines]], and [[al-Tusi]] introduced the [[Trigonometry|Law of Cosines]].

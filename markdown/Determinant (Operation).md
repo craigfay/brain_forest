@@ -1,0 +1,2 @@
+# Determinant
+In [[Linear Algebra]], the determinant is an operation that tells you the scaling factor of a [[Matrix|linear transformation]]. The determinant will be positive for transformations that that preserve orientation (basis handed-ness), and negative for those that do.

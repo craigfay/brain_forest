@@ -108,7 +108,8 @@ These later books represent Euclid biting off more than he can chew; 3D geometry
 Proposition 2 of Book 12 states: Circles are to each other as squares on the diameters. We would say that the area of a circle is proportional to the square of it's radius. Euclid knew that this should be demonstrated, and employed [[Eudoxus|Eudoxus' theory of exhaustion]].
 
 ## The 5 Platonic Solids
-This part of the text culminates in a description of the 5 platonic solids:
+This part of the text culminates in a description of the 5 [[Platonic Solids]].
+
 - Tetrahedron
 - Cube
 - Octahedron

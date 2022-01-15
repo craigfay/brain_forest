@@ -7,12 +7,8 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Matrix (Linear Algebra).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Matrix (Linear Algebra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
-    "markdown/Matrix (Linear Algebra).md",
-    "markdown/Determinant (Operation).md",
-    "markdown/Dihedrons.md",
-    "markdown/Relativity.md",
-    "markdown/Linear Algebra.md",
-    "markdown/Lie Algebras.md",
-    "markdown/Fermions.md",
-    "markdown/Algebra.md",
-    "markdown/Eudoxus.md",
-    "markdown/Brahmagupta.md"
+    "markdown/Library of Alexandria.md",
+    "Egyptians.md",
+    "markdown/Geometry - History.md",
+    "markdown/Pappus of Alexandria.md",
+    "markdown/Ancient Egypt.md",
+    "markdown/Ancient Greece.md",
+    "markdown/Antiquity and Humanities.md",
+    "Thales'.md",
+    "markdown/Projective Geometry.md",
+    "markdown/Platonic Solids.md"
   ]
 }

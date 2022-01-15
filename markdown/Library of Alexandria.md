@@ -1,0 +1,2 @@
+# Library of Alexandria
+A library located in the [[Ancient Egypt|ancient Egyptian]] city of Alexandria. It is perhaps most fabled among libraries of the ancient world, and fixed Alexandria as a symbol of knowledge and education.

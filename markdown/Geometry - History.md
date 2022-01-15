@@ -16,15 +16,15 @@ Because mathematics is so old, it's insightful to understand its origins and soc
 - [[SI 427]] is a cuneiform tablet which has been studied by [[Daniel Mansfield]], and found to contain very interesting Geometry related to early use of [[Diagonal Triples]].
 
 ### Construction
-- While written evidence is poor, we have obvious archeological reasons to believe that the [[Egyptians]] had a very sophisticated knowledge of geometry.
+- While written evidence is poor, we have obvious archeological reasons to believe that the [[Ancient Egypt|ancient Egyptians]] had a very sophisticated knowledge of geometry.
 - The [[Babylonians]] built largely out of clay, but we suspect that their construction would have rivaled that of the Egyptians.
 
 ### Abstract Geometry
 The Greeks represent a shift towards interest in abstract mathematics, including:
 - [[Platonic Solids]],
 - [[Apollonius]]' polarity / duality of [[Conics]]
-- [[Thales']] theorem about right triangles inscribed in circles
-- [[Pappus' Theorem]], a precursor to non-Euclidean geometry, because it made no use of a compass or curve. This was the first and probably most important theorem in [[Geometry - Projective|projective geometry]]. [[Pascal]] famously generalized this theorem to apply to conics.
+- [[Thales]] theorem about right triangles inscribed in circles
+- [[Pappus of Alexandria|Pappus' Theorem]], a precursor to non-Euclidean geometry, because it made no use of a compass or curve. This was the first and probably most important theorem in [[Projective Geometry|projective geometry]]. [[Pascal]] famously generalized this theorem to apply to conics.
 
 ### Applied Geometry in Ancient Greece
 - [[Erotosthenese]] was the chief librarian in the [[Library of Alexandria]], and probably the world's first great geographer. He was able to calculate distances to the sun and moon by making clever observations about geometry on Earth. This is discuessed in Wildberger's *Famous Math Problems #9*.

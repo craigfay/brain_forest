@@ -7,12 +7,8 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Particle Spin.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Particle Spin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
-    "markdown/Particle Spin.md",
+    "markdown/Chemistry.md",
+    "markdown/Cooking.md",
+    "README.md",
+    "Boson.md",
+    "markdown/Post-Modernism.md",
+    "markdown/Superconductivity.md",
     "markdown/Bosons.md",
     "markdown/The Standard Model of Physics.md",
-    "markdown/Geometry.md",
-    "markdown/Geometry - History.md",
-    "markdown/Trigonometry.md",
-    "markdown/Spherical Trigonometry.md",
-    "markdown/Library of Alexandria.md",
-    "Egyptians.md",
-    "markdown/Pappus of Alexandria.md"
+    "markdown/Fermions.md",
+    "markdown/Geometry.md"
   ]
 }

@@ -5,4 +5,4 @@ Every particle has a [[Wave Function]]. The spin of a particle tells us how that
 - When a particle has spin 1, a single full rotation makes it look the same as it did in the starting position. The sequence of phases looks like `1 -> 2 -> 1`.
 - Particles that have spin 1/2 have a phase sequence that looks like `1 -> 2 -> 3 -> 2 -> 1`. It only looks the same after 2 full rotations. **What do we mean by rotation here?**
 
-We have conservation laws that say that certain quantities can't be created or destroyed in a particle interaction. Spin is one of these quantities.
+We have [[Conservation Laws]] that say that certain quantities can't be created or destroyed in a particle interaction. Spin is one of these quantities; The amount of spin going into an interaction must be the amount that comes out.

@@ -27,3 +27,15 @@ The boat comes upon a palace of fairy-land, and Anados uses an unfastened board 
 ## Chapter 11 -
 Anados awakes the next morning to find a new pair of clothes, different than those he is wearing, but in accordance with his preference, and puts them on.
 
+
+## Chapter 12 - The Story of the Winged Women
+Anados reads a book and describes its contents:
+
+In another world, babies are not concieved but discovered. Young women find them in nature, and bring them home to be raised. In this world, women have wings instead of arms, and the appearance of the people is determined by the exact circumstances of their discovery as babies. The color of women's wings changes with the season of their discovery, and the state of the celestial bodies.
+
+The laws of light and reflection are different than on Earth. Instead of being blue at its clearest, the sky is a reflection of the earth below. Instead of a dome, the sky is shaped like the top part of an egg.
+
+Anados enters the world, and lives alongside the creatures. He conveys to them the differences between their worlds, and the women seem embarassed by his vague description of the way that babies come to exist in his world. One of them wanders off, and is found dead the next day.
+
+In the egg world, men and women fall in love with eachother, but instead of being together, go off to die. Anados suspects that when these creatures die, they become children on Earth.
+

@@ -39,3 +39,8 @@ Anados enters the world, and lives alongside the creatures. He conveys to them t
 
 In the egg world, men and women fall in love with eachother, but instead of being together, go off to die. Anados suspects that when these creatures die, they become children on Earth.
 
+## Chapter 13 - The Story of Cosmo and the Mirror
+
+Cosmo is a young man who is poor, but from a noble family. He is well respected by his peers, but has no close friends. He lives alone in a house that he prefers others do not discover. Cosmo is an expert in arms, and an aquaintence of his is considering a suit of armor for purchase, and asks Cosmo to help determine its value. They enter a dusty antique shop, and the aquaintence buys the suit, validated by Cosmo's valuation.
+
+Cosmo spots an eliptical mirror, and is attracted to it. He leaves the store, but quickly returns to inspect it further. After pretending interest in other items, he asks the shopkeeper to take down the mirror. Its frame is beautifully designed and executed, and seems to posess undiscovered meaning in the figures of its carving. Cosmo asks the price, and is devastated by its unaffordability. The shopkeeper asks Cosmo's name, and reveals that he knew Cosmo's father closely. He offers Cosmo the mirror for 1/4 of it's marked price, under the condition that Cosmo give him first offer if he ever decides to part with the mirror.

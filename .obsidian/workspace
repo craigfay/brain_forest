@@ -7,8 +7,12 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Particle Spin.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Particle Spin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/Particle Spin.md",
+    "markdown/Bosons.md",
+    "markdown/The Standard Model of Physics.md",
     "markdown/Geometry.md",
     "markdown/Geometry - History.md",
     "markdown/Trigonometry.md",
     "markdown/Spherical Trigonometry.md",
     "markdown/Library of Alexandria.md",
     "Egyptians.md",
-    "markdown/Pappus of Alexandria.md",
-    "markdown/Ancient Egypt.md",
-    "markdown/Ancient Greece.md",
-    "markdown/Antiquity and Humanities.md"
+    "markdown/Pappus of Alexandria.md"
   ]
 }

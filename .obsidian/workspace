@@ -7,12 +7,8 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Age of Empires 2.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Age of Empires 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/Circle of Fifths.md",
+    "README.md",
+    "Untitled.md",
+    "markdown/John Vervaeke.md",
     "markdown/Age of Empires 2.md",
     "markdown/Phantastes.md",
     "markdown/Chemistry.md",
     "markdown/Cooking.md",
-    "README.md",
     "Boson.md",
-    "markdown/Post-Modernism.md",
-    "markdown/Superconductivity.md",
-    "markdown/Bosons.md",
-    "markdown/The Standard Model of Physics.md"
+    "markdown/Post-Modernism.md"
   ]
 }

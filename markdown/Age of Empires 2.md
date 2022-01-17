@@ -4,6 +4,8 @@
 
 ## Mongols
 - You should try to beat mongols in the early game before they get Mangudai / Seige.
+- Hunting bonus makes them decent on water.
+- They don't really have a Castle age eco bonus.
 
 ## Vikings
 - Best unit pairings as Vikings are:

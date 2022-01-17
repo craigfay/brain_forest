@@ -7,3 +7,4 @@ Notes and collected writings, organized using [Obsidian](https://obsidian.md).
 - [[Physics]]
 - [[Chemistry]]
 - [[Antiquity and Humanities]]
+- [[Music]]

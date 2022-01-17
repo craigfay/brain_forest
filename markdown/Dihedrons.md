@@ -1,6 +1,6 @@
 
 ## Construct Complex Numbers using Dihedrons
-According to [[Norman J Wildberger]].
+According to [[Norman J Wildberger]], explained in FMP21.
 https://www.youtube.com/watch?v=XoTeTHSQSMU
 
 ## Field Theory
@@ -171,6 +171,18 @@ The sphere (given by the relativistic quadratic form) is of interest. Let's look
 
 ![2D Cross Sections](/media/dihedral_2d_cross_sections.png)
 
-First we'll set both y and z to 0. (`t^2 + x^2 = 1`) This will produce matrices of the form `[t, x; -x, t]`. This is the familiar complex number in 2x2 matrix form. All of the properties of the complex numbers are derived from bigger and better properties of matrices! In particular, the quadratic form is just the [[Determinant (Operation)|Determinant]].
+## Blue Complex Numbers
+First we'll set both y and z to 0. (`t^2 + x^2 = 1`) All solutions to this equation form a unit circle. This will produce matrices of the form `[t, x; -x, t]`. This is the familiar complex number in 2x2 matrix form. All of the properties of the complex numbers are derived from bigger and better properties of matrices! In particular, the quadratic form is just the [[Determinant (Operation)|Determinant]]. The only object in this story that is non-invertable (0-determinant) is the origin.
+
+
+## Red Complex Numbers
+When we set x and z to 0, we get `t^2 - y^2 = 1`, which is another 2D subalgebra, which has a geometric interpetation as a hyperbola. This hyperbola is the analog of a circle in this variant of the complex number algebra. Importantly, it has more non-invertable elements: The origin, as well as the asymtotes of the hyperbola.
+
+## Green Complex Numbers
+When we set x and y to 0, we get `t^2 - z^2 = 1`. This relativistic subalgebra shares many properties with the Red variant.
+
+Each of these variants should be thought of as a 2D slice of this space that run through the origin. 
+
+
 
 

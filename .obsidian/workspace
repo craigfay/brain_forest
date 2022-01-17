@@ -7,8 +7,12 @@
         "id": "566cc43ecf700774",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Dihedrons.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Dihedrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "566cc43ecf700774",
   "lastOpenFiles": [
+    "markdown/Dihedrons.md",
     "markdown/Git.md",
     "markdown/Eudoxus.md",
     "markdown/Fermions.md",
@@ -92,7 +98,6 @@
     "markdown/Dimethyltryptamine.md",
     "Psychadelics.md",
     "Dimethyltryptamine.md",
-    "markdown/Pentagram Symbolism.md",
-    "markdown/Circle of Fifths.md"
+    "markdown/Pentagram Symbolism.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Conservation Laws.md",
+            "file": "markdown/Fermions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Conservation Laws.md",
+                "file": "markdown/Fermions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
-    "markdown/Conservation Laws.md",
     "markdown/Fermions.md",
+    "markdown/Bosons.md",
+    "markdown/Conservation Laws.md",
     "media/affine_arithmetic 1.png",
     "markdown/Continuity.md",
     "Screen Shot 2022-01-17 at 1.40.39 AM.png",
     "ruler_construction.png",
     "ruler_construction 1.png",
     "media/ruler_construction.png",
-    "media/complex_number_slices.png",
-    "markdown/Dihedrons.md"
+    "media/complex_number_slices.png"
   ]
 }

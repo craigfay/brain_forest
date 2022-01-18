@@ -46,3 +46,25 @@ Anti-Quarks have anti-color, which we call anti-Red, anti-Green, and anti-Blue.
 
 ## Gluons
 Quarks interact with eachother through the strong force, mediated by gluons. There are 8 types of gluons, each representing a different color / anti-color pair.
+
+
+## Leptons
+There are 6 types of leptons: Electrons, muons, tau particles, electron neutrinos, muon neutrinos, and tau neutrinos. Muons and Tau particles are just like electrons, but with higher masses. They're also unstable, just like the heavier quarks. We also believe that all the Muons and Tau particles created in the big bang decayed into electrons via the weak force in the first fraction of a second. We think that this released lots of neutrinos and photons that are still flying around the universe today.
+
+New Muons are created by natural processes, such as cosmic rays hitting the Earth's atmosphere. Any other natural process with high enough energy will produce Muons and Taus as well.
+
+Leptons interact with every force except the strong field, and get their mass from the higgs field.
+
+## Neutrinos
+Neutrinos are leptons that have very small masses and don't carry electric charge. They only interact with the weak force. This makes them very difficult to detect because it's very rare for them to interact with matter. Each type of neutrino have their own quantum number, which we might think of as electron-ness, muon-ness, and tau-ness. Physicists call them **lepton flavors**.
+
+Our sun is constantly emitting neutrinos from the nuclear processes inside. Each of us has 400 billion neutrinos travling through our body at any given second. We believe that there are more neutrinos in the universe than photons.
+
+We don't yet know their mass, but we know that it must be greater than zero, and that the sum of all three of their masses must be less than 0.3 electron volts. **Why?**
+
+Because they have mass, neutrinos can oscillate between the different lepton flavors. For example, electron neutrinos produced by beta decay have been observed to have a different flavor when measured in a distant detector.
+
+## Neutrino Chirality
+We sometimes call chirality **handedness** or **helicity**. We can think of it as how the spin aligns with linear momentum. We've observed left handed and right handed version of every other particle, but we've only ever observed neutrinos to be left handed. Similarly, we've only ever seen right handed anti-neutrinos. **We don't know why this is.** It breaks a few types of symmetry in physics, namely parity symmetry, and charge symmetry.
+
+**There is a subtle different between chirality and helicity in any particle with mass.** In massless particles, the two properties mean the same thing.

@@ -169,9 +169,7 @@ Dihedrons are just 2x2 matrices over a field. Nothing special going on. The oper
 
 The sphere (given by the relativistic quadratic form) is of interest. Let's look at it by taking 2D slices (not 3D!). 
 
-![2D Cross Sections](/media/dihedral_2d_cross_sections.png)
-
-## Blue Complex Numbers
+![2D Cross Sections](/media/dihedral_2d_cross_sections.png)## Blue Complex Numbers
 First we'll set both y and z to 0. (`t^2 + x^2 = 1`) All solutions to this equation form a unit circle. This will produce matrices of the form `[t, x; -x, t]`. This is the familiar complex number in 2x2 matrix form. All of the properties of the complex numbers are derived from bigger and better properties of matrices! In particular, the quadratic form is just the [[Determinant (Operation)|Determinant]]. The only object in this story that is non-invertable (0-determinant) is the origin.
 
 

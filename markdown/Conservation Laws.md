@@ -5,5 +5,6 @@ In physics, it appears that there are some quantities that cannot be created or 
 - Linear Momentum
 - Angular Momentum
 - [[Particle Spin]]
+- Electric Charge
 
 These laws don't necessarily hold true in [[Relativity|General Relativity]] if space time is changing. **This fact may be an indication of an error in our model.**

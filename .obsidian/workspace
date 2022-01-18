@@ -7,8 +7,12 @@
         "id": "13405d14ab6de4ac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Abel-Ruffini Theorem.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Abel-Ruffini Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,10 +89,10 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
+    "markdown/Abel-Ruffini Theorem.md",
     "media/dihedral_2d_cross_sections.png.md",
     "markdown/Dihedrons.md",
     "Modular Arithmetic.md",
-    "markdown/Abel-Ruffini Theorem.md",
     "markdown/Fermions.md",
     "markdown/Bosons.md",
     "markdown/Conservation Laws.md",

@@ -1,2 +1,2 @@
 # Trace
-An [[Operators|operator]] used in [[Linear Algebra]],
+The trace of a [[Matrix (Linear Algebra)|matrix]] is the sum of elements on the main diagonal. Interestingly, trace (A + B) = trace A + trace B.**

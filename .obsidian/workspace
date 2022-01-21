@@ -7,12 +7,8 @@
         "id": "13405d14ab6de4ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Abel-Ruffini Theorem.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Abel-Ruffini Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
+    "Untitled.md",
+    "markdown/Jacobian.md",
+    "markdown/Tensor.md",
+    "Modular Arithmetic.md",
+    "markdown/Determinant (Operation).md",
+    "markdown/Trace (Operation).md",
+    "markdown/Matrix (Linear Algebra).md",
     "markdown/Abel-Ruffini Theorem.md",
     "media/dihedral_2d_cross_sections.png.md",
-    "markdown/Dihedrons.md",
-    "Modular Arithmetic.md",
-    "markdown/Fermions.md",
-    "markdown/Bosons.md",
-    "markdown/Conservation Laws.md",
-    "media/affine_arithmetic 1.png",
-    "markdown/Continuity.md",
-    "Screen Shot 2022-01-17 at 1.40.39 AM.png"
+    "markdown/Dihedrons.md"
   ]
 }

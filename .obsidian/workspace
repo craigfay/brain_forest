@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Tangent Space.md",
+            "file": "Archimedes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Tangent Space.md",
+                "file": "Archimedes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
+    "Archimedes.md",
     "markdown/Tangent Space.md",
     "markdown/Vector Space.md",
     "media/cyclic_lie_algebras.webp",
@@ -97,7 +98,6 @@
     "markdown/Linear Algebra.md",
     "markdown/Matrix (Linear Algebra).md",
     "markdown/Eigenvalues and Eigenvectors.md",
-    "markdown/Jacobian.md",
-    "markdown/Tensor.md"
+    "markdown/Jacobian.md"
   ]
 }

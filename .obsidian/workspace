@@ -84,15 +84,15 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
+    "markdown/Tangent Space.md",
+    "markdown/Vector Space.md",
+    "media/cyclic_lie_algebras.webp",
     "markdown/Lie Algebras.md",
     "markdown/Group Theory.md",
     "markdown/Linear Algebra.md",
     "markdown/Matrix (Linear Algebra).md",
     "markdown/Eigenvalues and Eigenvectors.md",
     "markdown/Jacobian.md",
-    "markdown/Tensor.md",
-    "Modular Arithmetic.md",
-    "markdown/Determinant (Operation).md",
-    "markdown/Trace (Operation).md"
+    "markdown/Tensor.md"
   ]
 }

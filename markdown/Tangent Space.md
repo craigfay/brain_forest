@@ -1,0 +1,18 @@
+# Tangent Space
+
+A tangent space is a [[Vector Space]] that lives at every point on a [[Manifold]]. Geometers and Physicists are interest in tangent spaces because they enable algebra to be done on manifolds.
+
+## Construction
+As taught by [Whyb Maths](https://www.youtube.com/watch?v=tkDmDZDeFvQ)
+
+- Start by choosing a point p on the manifold.
+- Consider the set of all possible smooth curves that pass through p. We’ll call this set C<sup>∞</sup><sub>p</sub>(M), which we pronounce: *C infinity of the Manifold at p*.
+- This set is actually a vector space, because we can add any two functions contained in this set, or scalar multiply them.
+- This set is useful, but not the one we want, largely because it’s infinite dimensional. We can use it to build a more desirable vector space.
+- Each curve of our set can be thought of as a 1 dimensional subset of our manifold. We can write them as ɸ(λ) *Phi of Lamda*.
+- We can produce a second vector space at our point p by taking the derivative of every smooth curve passing through it. The vector implied by each derivative has a magnitude dependent on “how fast the parameter Lambda runs through the curve”. Higher values of Lambda imply longer vectors.
+- We now have an infinite set of vectors, in which we can find vectors with any direction and magnitude we wish. This is the tangent space of our point p!
+
+We notate the tangent space of p on M as T<sub>p</sub>M. The vector space has the same dimensionality as the manifold M.
+
+

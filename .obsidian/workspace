@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archimedes.md",
+            "file": "markdown/Archimedes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archimedes.md",
+                "file": "markdown/Archimedes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
-    "Archimedes.md",
+    "markdown/Archimedes.md",
     "markdown/Tangent Space.md",
     "markdown/Vector Space.md",
     "media/cyclic_lie_algebras.webp",

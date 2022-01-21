@@ -7,8 +7,12 @@
         "id": "13405d14ab6de4ac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Matrix (Linear Algebra).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Matrix (Linear Algebra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,13 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
-    "Untitled.md",
+    "markdown/Matrix (Linear Algebra).md",
+    "Eigenvalues and Eigenvectors.md",
     "markdown/Jacobian.md",
     "markdown/Tensor.md",
     "Modular Arithmetic.md",
     "markdown/Determinant (Operation).md",
     "markdown/Trace (Operation).md",
-    "markdown/Matrix (Linear Algebra).md",
     "markdown/Abel-Ruffini Theorem.md",
     "media/dihedral_2d_cross_sections.png.md",
     "markdown/Dihedrons.md"

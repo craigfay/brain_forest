@@ -1,10 +1,2 @@
 # Brain Forest
-Notes and collected writings, organized using [Obsidian](https://obsidian.md).
-
-## List of Major Topics
-- [[Computer Science]]
-- [[Mathematics]]
-- [[Physics]]
-- [[Chemistry]]
-- [[Antiquity and Humanities]]
-- [[Music]]
+My personal notes taken using [Obsidian](https://obsidian.md), which displays connections using a [Graph Representation](https://help.obsidian.md/Plugins/Graph+view)).

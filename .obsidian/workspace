@@ -7,8 +7,12 @@
         "id": "13405d14ab6de4ac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Wu-Yang Dictionary.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Wu-Yang Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
-    "markdown/Archimedes.md",
-    "markdown/Tangent Space.md",
-    "markdown/Vector Space.md",
-    "media/cyclic_lie_algebras.webp",
-    "markdown/Lie Algebras.md",
-    "markdown/Group Theory.md",
-    "markdown/Linear Algebra.md",
-    "markdown/Matrix (Linear Algebra).md",
-    "markdown/Eigenvalues and Eigenvectors.md",
-    "markdown/Jacobian.md"
+    "markdown/Wu-Yang Dictionary.md",
+    "markdown/Consumer Price Index.md",
+    "README.md",
+    "markdown/Ancient Egypt.md",
+    "markdown/Abel-Ruffini Theorem.md",
+    "markdown/Ancient Greece.md",
+    "markdown/Antiquity and Humanities.md",
+    "markdown/Git - Removing Large Files from History.md",
+    "markdown/Git.md",
+    "markdown/Novalis.md"
   ]
 }

@@ -13,7 +13,9 @@ Is there anything comparable in economics?
 
 Let's examine hyper-inflation. A look at Germany in the early 1920s is a good indication that we should have a very good tool for measuring inflation.
 
-Models goods and services with an N-dimensional vector space V over the real numbers. Implicitly, that means we're going to have units for each good, and we're going to be able to get down to fractional amounts of those goods, where a continuum makes sense as a model for those goods.
+## A Geometric Interpretation of CPI
+
+We can models goods and services as an N-dimensional vector space V over the real numbers. *Is N the amount of available goods?* Implicitly, that means we're going to have units for each good, and we're going to be able to get down to fractional amounts of those goods, where a continuum makes sense as a model for those goods.
 
 Q will always be a basket of goods and services. In some cases you'll want to take it to have negative components, but most times we're only concerned with the positive part of the vector space.
 

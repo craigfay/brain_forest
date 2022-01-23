@@ -4,12 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3ccfb85f47cb4797",
+        "id": "c2335449f21be388",
         "type": "leaf",
+        "dimension": 64.12395709177592,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Groupoids.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "04c3a74a8b72ce9d"
+      },
+      {
+        "id": "7fd501f23f978d3f",
+        "type": "leaf",
+        "dimension": 35.87604290822408,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Guage Theories.md",
+            "file": "markdown/Groupoids.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -22,21 +37,22 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": false,
+              "collapse-display": true,
               "showArrow": false,
               "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1.71616060908185,
+              "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.637658580013354,
-              "repelStrength": 10.5786779434676,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
               "linkStrength": 1,
-              "linkDistance": 252,
-              "scale": 0.9766253880707325,
+              "linkDistance": 250,
+              "scale": 1.0136072508934224,
               "close": true
             }
           }
-        }
+        },
+        "group": "04c3a74a8b72ce9d"
       }
     ],
     "direction": "vertical"
@@ -76,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 301
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -92,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Guage Theories.md",
+                "file": "markdown/Groupoids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +126,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "3ccfb85f47cb4797",
+  "active": "c2335449f21be388",
   "lastOpenFiles": [
+    "markdown/Groupoids.md",
+    "markdown/Group Theory.md",
+    "markdown/Lie Algebras.md",
     "markdown/Guage Theories.md",
     "markdown/The Standard Model of Physics.md",
     "markdown/Fermions.md",
     "markdown/Quantum State.md",
     "markdown/Dihedrons.md",
     "markdown/Relativity.md",
-    "markdown/Physics.md",
-    "markdown/Superconductivity.md",
-    "markdown/Bosons.md",
-    "markdown/Chemistry.md"
+    "markdown/Physics.md"
   ]
 }

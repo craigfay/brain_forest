@@ -21,6 +21,8 @@ Where
 - $p_{c,t}$ is the prevailing price of some good $c$ in period $t$.
 - $q_{c,t}$ is the quantity of $c$ sold in period $t$.
 
+The Paasche index tends to **understate** inflation, because the indices do not account for the fact that consumers typically react to price changes by changing the quantities that they buy 
+
 ## The Laspeyres Index
 Almost identical to the Paasche method in form and popularity, but uses quantities from $t_{0}$ instead of $t_{n}$. 
 $$
@@ -28,4 +30,4 @@ P_{p} = \frac
 	{ \sum p_{c,t_{n}} \cdot q_{c,t_{0}} }
 	{ \sum p_{c,t_{0}} \cdot q_{c,t_{0}} }
 $$
-
+The Laspeyres index tends to **overstate** inflation.

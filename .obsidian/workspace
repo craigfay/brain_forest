@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Wu-Yang Dictionary.md",
+            "file": "markdown/Consumer Price Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Wu-Yang Dictionary.md",
+                "file": "markdown/Consumer Price Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "13405d14ab6de4ac",
   "lastOpenFiles": [
-    "markdown/Wu-Yang Dictionary.md",
     "markdown/Consumer Price Index.md",
+    "markdown/Wu-Yang Dictionary.md",
     "README.md",
     "markdown/Ancient Egypt.md",
     "markdown/Abel-Ruffini Theorem.md",

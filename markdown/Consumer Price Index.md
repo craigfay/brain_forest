@@ -16,9 +16,10 @@ P_{p} = \frac
 $$
 Where
 - $P$ is the relative index of price levels at two periods.
+- $c$ is a single good or service in the set of all goods, $C$.
 - $t_{0}$ is the base period.
 - $t_{n}$ the period for which the index is computed.
-- $p_{c,t}$ is the prevailing price of some good $c$ in period $t$.
+- $p_{c,t}$ is the prevailing price of $c$ in period $t$.
 - $q_{c,t}$ is the quantity of $c$ sold in period $t$.
 
 The Paasche index tends to **understate** inflation, because the indices do not account for the fact that consumers typically react to price changes by changing the quantities that they buy 

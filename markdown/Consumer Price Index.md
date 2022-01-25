@@ -38,6 +38,9 @@ The Laspeyres index tends to **overstate** inflation.
 ## The Fisher Index
 
 ## The Divisia Index
+This index has been around since the 1920s, but economists have never been comfortable with it because it introduces **path dependence**, which they see as a flaw.
+
+Physicists learn to love path dependence once they realized the role that it was playing.
 
 ## Ragnar'Frisch's Theorem
 In 1930, Ragnar Frisch proves that there is no index number that can satisfy the 3 so-called Fisher Axioms. Note that $p^{0} = p^{1}$ yields 1 in all cases but the last.

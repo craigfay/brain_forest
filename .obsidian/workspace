@@ -6,11 +6,11 @@
       {
         "id": "c2335449f21be388",
         "type": "leaf",
-        "dimension": 64.12395709177592,
+        "dimension": 46.722288438617404,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Guage Theories.md",
+            "file": "markdown/Guage Theory.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "7fd501f23f978d3f",
         "type": "leaf",
-        "dimension": 35.87604290822408,
+        "dimension": 53.2777115613826,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Guage Theories.md",
+            "file": "markdown/Guage Theory.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -47,7 +47,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0136072508934224,
+              "scale": 1.740435984679548,
               "close": true
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Guage Theories.md",
+                "file": "markdown/Guage Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
-    "markdown/Guage Theories.md",
+    "markdown/Guage Theory.md",
+    "Lie Groups.md",
+    "markdown/Lie Algebras.md",
+    "markdown/Group Theory.md",
+    "markdown/Manifolds.md",
+    "README.md",
+    "markdown/The Boskin Commission.md",
     "markdown/Consumer Price Index.md",
     "markdown/Marshallian Demand.md",
-    "markdown/Groupoids.md",
-    "markdown/Group Theory.md",
-    "markdown/Lie Algebras.md",
-    "markdown/The Standard Model of Physics.md",
-    "markdown/Fermions.md",
-    "markdown/Quantum State.md",
-    "markdown/Dihedrons.md"
+    "markdown/Groupoids.md"
   ]
 }

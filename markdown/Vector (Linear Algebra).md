@@ -5,7 +5,7 @@
 A vector space is a set of elements *V* that all fit definition above.
 
 ## Vector Fields
-A vector field is a function $J$ with [[Scalar Field|scalar fields]] as input and output. They can be interpreted geometrically as a family of arrows on some [[Manifold]] $M$. Vector fields are differentiation [[Operators]], and can be interpreted as the rate of increase of a scalar field $F$ in the direction of the arrows.
+A vector field is a function $J$ with [[Scalar Field|scalar fields]] as input and output. They can be interpreted geometrically as a family of arrows on some [[Manifolds]] $M$. Vector fields are differentiation [[Operators]], and can be interpreted as the rate of increase of a scalar field $F$ in the direction of the arrows.
 
 ## Spaces vs. Fields
 Vector **fields** and vector **spaces** are not the same thing.

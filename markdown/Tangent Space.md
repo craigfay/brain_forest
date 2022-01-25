@@ -1,6 +1,6 @@
 # Tangent Space
 
-A tangent space is a [[Vector (Linear Algebra)]] that lives at every point on a [[Manifold]]. Geometers and Physicists are interest in tangent spaces because they enable algebra to be done on manifolds.
+A tangent space is a [[Vector (Linear Algebra)]] that lives at every point on a [[Manifolds]]. Geometers and Physicists are interest in tangent spaces because they enable algebra to be done on manifolds.
 
 ## Construction
 As taught by [Whyb Maths](https://www.youtube.com/watch?v=tkDmDZDeFvQ)

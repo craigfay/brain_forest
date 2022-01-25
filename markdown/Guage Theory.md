@@ -6,7 +6,7 @@ We see that various guages agree with one another by defining **guage transforma
 
 We say that the laws of [[Physics]] have to be unaffected by the guages that we use to describe them. We call this property **guage invariance**, and it is a form of symmetry: Physics is symmetric under an arbitrary choice of guage.
 
-We can describe guage symmetries using [[Lie Groups]]. Our guage fields will be represented as [[Lie Algebras]]. *Is this precise?* The guage fields will be "group valued" objects which transform under a particular representation of a Lie Group.
+We can describe guage symmetries using [[Group Theory|Lie Groups]]. Our guage fields will be represented as [[Lie Algebras]]. *Is this precise?* The guage fields will be "group valued" objects which transform under a particular representation of a Lie Group.
 
 The guage symmetry acts on these guage fields through a representation of a Lie Group.
 
@@ -40,4 +40,30 @@ If you look at the size of your vector $v$ relative to your vector $q$, you're g
 
 Pia Melaney and Eric Weinstein call this an **economically constant** translation.
 
+If you use this method and assume unchanging preferences, all the other index numbers collapse into the Divisia index number.
+
 ## Cycling and Other Anomalies
+
+
+## Abstract
+- You have a system which is evolving in a high dimensional space. It is the vector space of products cross the vector space (which is dual to it) of prices. (because every product has a price)
+- You have an evolution in the space of products and an evolution in the space of prices simultaneously.
+- This could be a consumer price index, or it could be a portfolio.
+- You want to have a notion of how much the value of the portfolio has changed over time.
+- Since both the prices and the products are changing, you have a problem.
+- At any time, there's a space you can move in where the value doesn't change. (The barter space?)
+- We want to try to figure out how much the value has changed (as a result of moving around in the 2 high dimensional spaces) by always taking into account how to project out the part which is real change versus the part which is substitution.
+- A consequence of doing that is that the evolution is generically path-dependent.
+- There is a mathematical formalism which was developed for dealing with these kinds of problems, (where change in the value of something is path-depedent). Mathematicians call it **connections**, physicists call it **guage theories**.
+- In some problems, there is a natural choice of this additional structure. The barter space is a natural guage field which we can use.
+
+This whole thing is about maximizing under constraints. That is it. We don't tend to think about Guage Theory as advanced calculus, but it is. It's a calculus that was made to do economics.
+
+It's not about index numbers, its about constancy.
+
+Our current toolkit doesn't solve index number problems between agents or countries.
+
+Curvature is another word for path-dependence.
+
+Foliation is another word for a preference map.
+

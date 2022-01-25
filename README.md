@@ -3,3 +3,5 @@ My personal notes taken using [Obsidian](https://obsidian.md), which displays co
 
 ## Questions
 - Why is it reasonable to interpret a vector field as a differentiation operator?
+- Why is it reasonable to interpret a Lie Group as a smooth manifold?
+

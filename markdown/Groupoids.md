@@ -1,5 +1,5 @@
 # Groupoids
-[[Guage Theories|Guage Groups]] live in some kind of space, or set, called a **Groupoid**. We can ask if any two guage fields in this set are **equivalent** under some guage transformation.
+[[Guage Theory|Guage Groups]] live in some kind of space, or set, called a **Groupoid**. We can ask if any two guage fields in this set are **equivalent** under some guage transformation.
 
 We think of a [[Group Theory|group]] as a set of symmetry tranformations that act on a single object.
 

@@ -30,5 +30,14 @@ Becker bakes **stable preferences** into the definition of economics, because of
 
 The basis of neoclassical economics depends fundamentally on income and substitution effects. If we extend our current calculus tools in a way that allows us to separate income and substitution effects, you can allow preferences to change.
 
+The solution: Decompose the space into:
+- A subspace denoted by $q$, our basket.
+- The barter space, $\beta_{p}$ , which is the space of all economically worthless baskets, given the current pricing system, OR all barters given the current pricing system.
 
+The claim is that you can take any vector, and decompose it into the portion of the vector that lies on the subspace $q$, and the portion that lies on $\beta_{p}$. This way, you can allow your vector to change, you can allow changes as the vector moves through time. You keep track of your $q$ subspace, and you allow it to change by barters.
 
+If you look at the size of your vector $v$ relative to your vector $q$, you're going to have a sense of the change in the income, having held substitution effects constant.
+
+Pia Melaney and Eric Weinstein call this an **economically constant** translation.
+
+## Cycling and Other Anomalies

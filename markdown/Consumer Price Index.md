@@ -32,3 +32,12 @@ P_{p} = \frac
 	{ \sum p_{c,t_{0}} \cdot q_{c,t_{0}} }
 $$
 The Laspeyres index tends to **overstate** inflation.
+
+## The Tornqvist Index
+
+## The Fisher Index
+
+## The Divisia Index
+
+## Ragnar'Frisch's Theorem
+In 1930, Ragnar Frisch proves that there is no index number that can satisfy the 3 so-called Fisher Axioms. Note that $p^{0} = p^{1}$ yields 1 in all cases but the last.

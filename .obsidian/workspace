@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Groupoids.md",
+            "file": "Marshallian Demand.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Groupoids.md",
+            "file": "Marshallian Demand.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Groupoids.md",
+                "file": "Marshallian Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
+    "Marshallian Demand.md",
+    "markdown/Guage Theories.md",
     "markdown/Groupoids.md",
     "markdown/Group Theory.md",
     "markdown/Lie Algebras.md",
-    "markdown/Guage Theories.md",
     "markdown/The Standard Model of Physics.md",
     "markdown/Fermions.md",
     "markdown/Quantum State.md",
     "markdown/Dihedrons.md",
-    "markdown/Relativity.md",
-    "markdown/Physics.md"
+    "markdown/Relativity.md"
   ]
 }

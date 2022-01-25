@@ -23,3 +23,12 @@ We can also talk about [[Relativity|General Relativity]] as a guage theory, wher
 We also have to respect the so-called **diffeomorphism symmetry**; If we have a manifold, we can arbitrarily change our coordinates, which corresponds to a diffeomorphism of the manifold. Altogether, we would say that GR is characterized by the group **SO(1,3) x Diff(M)**.
 
 When GR is written in its standard form, it looks nothing like a guage theory, but when we use the **Einstein-Cartan Formalism**, which uses **Cartan Geometry**, it does resemble a guage theory.
+
+## Solving Changing Preferences using Guage Theory
+
+Becker bakes **stable preferences** into the definition of economics, because of economists' inability to solve it.
+
+The basis of neoclassical economics depends fundamentally on income and substitution effects. If we extend our current calculus tools in a way that allows us to separate income and substitution effects, you can allow preferences to change.
+
+
+

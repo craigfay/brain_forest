@@ -18,3 +18,8 @@ $$
 Where
 - $Obj$ are the guage fields of the groupoid, indexed by $i$.
 - $Mor$ are the guage transformations, or **morphisms** of the groupoid.
+
+
+## Edge Modes
+
+In electromagnetism, when you have a conductor with some 

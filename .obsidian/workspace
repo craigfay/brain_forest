@@ -6,53 +6,14 @@
       {
         "id": "c2335449f21be388",
         "type": "leaf",
-        "dimension": 46.722288438617404,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "markdown/Road To Reality.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "04c3a74a8b72ce9d"
-      },
-      {
-        "id": "7fd501f23f978d3f",
-        "type": "leaf",
-        "dimension": 53.2777115613826,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "README.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.740435984679548,
-              "close": true
-            }
-          }
-        },
-        "group": "04c3a74a8b72ce9d"
+        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "markdown/Road To Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +89,7 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
+    "markdown/Road To Reality.md",
     "README.md",
     "markdown/Groupoids.md",
     "markdown/Guage Theory.md",
@@ -136,7 +98,6 @@
     "markdown/Group Theory.md",
     "markdown/Manifolds.md",
     "markdown/The Boskin Commission.md",
-    "markdown/Consumer Price Index.md",
-    "markdown/Marshallian Demand.md"
+    "markdown/Consumer Price Index.md"
   ]
 }

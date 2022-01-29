@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Road To Reality.md",
+            "file": "markdown/Rust (Programming Language).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Road To Reality.md",
+                "file": "markdown/Rust (Programming Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
+    "markdown/Rust (Programming Language).md",
     "markdown/Road To Reality.md",
     "README.md",
     "markdown/Groupoids.md",
@@ -97,7 +98,6 @@
     "markdown/Lie Algebras.md",
     "markdown/Group Theory.md",
     "markdown/Manifolds.md",
-    "markdown/The Boskin Commission.md",
-    "markdown/Consumer Price Index.md"
+    "markdown/The Boskin Commission.md"
   ]
 }

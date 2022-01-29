@@ -2,6 +2,7 @@
 An outline of *Road to Reality* by [[Roger Penrose]].
 
 ## 13.7 Tensor Representation Spaces; Reducability
+Comprehension: 2/5
 
 A **representation space** is a vector space that a family of linear transformations (representing a group) will act on.
 
@@ -23,5 +24,7 @@ If the $C$ matrices are all zero, we get the case where the representation is th
 A representation is call **irreducible** if it is not reducible (with $C$ present or not).
 
 A representation is called **completely reducible** if we never get the above situation (with non-zero $C$), so that it is a direct sum of irreducible representations.
+
+**Semi-Simple Groups**
 
 

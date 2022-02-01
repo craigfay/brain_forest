@@ -1,5 +1,5 @@
 # Road to Reality
-An outline of *Road to Reality* by [[Roger Penrose]].
+An summary of *Road to Reality* by [[Roger Penrose]].
 
 ## 13.7 Tensor Representation Spaces; Reducability
 Comprehension: 2/5
@@ -36,6 +36,8 @@ form** $K$, constructed from the *structure constants* of §13.6. A group is sem
 
 *Any complex semi-simple Lie group has exactly one **real form** (definition needed) which is compact!*
 
+
+## 13.8 Orthogonal Groups
 
 
 

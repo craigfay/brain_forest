@@ -1,5 +1,5 @@
 # Bosons
-These are the particles that we believe are responsible for all of the fundamental forces that we observe in the universe. We would say that they mediate the way that they mediate the interactions of the [[Fermions]] We sometimes call them **force** carriers or **exchange particles**.
+These are the particles that we believe are responsible for all of the fundamental forces that we observe in the universe. We would say that they mediate the way that they mediate the interactions of the [[Fermions]] We sometimes call them **force carriers** or **exchange particles**.
 
 ## Boson Statistics
 
@@ -9,7 +9,7 @@ All of the fundamental forces we know about come from a host of virtual bosons i
 
 Strangely, the rules of boson statistics apply to collections of particles as well. For example, Helium is known as a **composite Boson**, because it has 2 electrons, each with spin 1/2, which add to spin 1, which means that Helium atoms behave like bosons. If you collect a group of helium atoms and cool them into a liquid, they will all inhabit the same [[Quantum State]], and become a [[Superfluidity|superfluid]].
 
-## Abstract Bosons
+## Composite Bosons
 Technically, we say that a boson is anything with a total spin of a whole-integer, such as 0, 1, 2, 3, etc...
 
 ## The Higgs Boson

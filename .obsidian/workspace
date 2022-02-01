@@ -7,12 +7,8 @@
         "id": "c2335449f21be388",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/Road To Reality.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Road To Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
-    "markdown/Road To Reality.md",
-    "markdown/Rust (Programming Language).md",
-    "README.md",
-    "markdown/Groupoids.md",
+    "Untitled.md",
     "markdown/Guage Theory.md",
-    "Lie Groups.md",
-    "markdown/Lie Algebras.md",
-    "markdown/Group Theory.md",
-    "markdown/Manifolds.md",
-    "markdown/The Boskin Commission.md"
+    "README.md",
+    "markdown/Problems With Modern Physics.md",
+    "markdown/Conservation Laws.md",
+    "markdown/Geometry.md",
+    "markdown/Fermions.md",
+    "markdown/Eudoxus.md",
+    "markdown/Euclid's Elements.md",
+    "markdown/Elusinian Mysteries.md"
   ]
 }

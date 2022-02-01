@@ -13,7 +13,7 @@ Physicists have concluded that there roughly 60 orders of magnitudes of differen
 
 A "continuum" is not inherently well defined. For example, lines, curves, planes, time, and space are all potentially different types of continuums.
 
-The ancient Greeks were interested in how to construct a ruler. They had a type of Geometry called [[Affine Geometry]], which is the geometry of a straight edge. This can be combined quite nicely with the notion of parallelism to construct a ruler geometrically using similar triangles. Notice that this requires no notion of curves or even perpindicularity.
+The ancient Greeks were interested in how to construct a ruler. They had a type of Geometry called [[Affine Geometry]], which is the geometry of a straight edge. This can be combined quite nicely with the notion of parallelism to construct a ruler geometrically using similar triangles. Notice that this requires no notion of curves or even perpendicularity.
 
 ![Ruler Construction](/media/ruler_construction.png)
 
@@ -25,4 +25,4 @@ In the 19th century, [[von Staudt]] and [[David Hilbert]] extended affine Geomet
 
 Wildberger challenges the viewer to develop an axiomatic framework for arithmetic using affine geometry (in the sense of [[Euclid's Elements|Euclid]]]] instead of [[ZFC]], sufficiently rich to support rational number arithmetic. 
 
-Notice that Affine Geometry does not involve a compass. Wildberger claims that the compass introduces irrationalities, which the greeks had a very difficult time incorporating. We still have not solved the same irrationality problems.
+Notice that Affine Geometry does not involve a compass. **Wildberger claims that the compass introduces irrationalities**, which the greeks had a very difficult time incorporating. We still have not solved the same irrationality problems.

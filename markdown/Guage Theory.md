@@ -54,7 +54,7 @@ If you use this method and assume unchanging preferences, all the other index nu
 - At any time, there's a space you can move in where the value doesn't change. (The barter space?)
 - We want to try to figure out how much the value has changed (as a result of moving around in the 2 high dimensional spaces) by always taking into account how to project out the part which is real change versus the part which is substitution.
 - A consequence of doing that is that the evolution is generically path-dependent.
-- There is a mathematical formalism which was developed for dealing with these kinds of problems, (where change in the value of something is path-depedent). Mathematicians call it **connections**, physicists call it **guage theories**.
+- There is a mathematical formalism which was developed for dealing with these kinds of problems, (where change in the value of something is path-depedent). Mathematicians call it **connections**, physicists call it **guage theory**.
 - In some problems, there is a natural choice of this additional structure. The barter space is a natural guage field which we can use.
 
 This whole thing is about maximizing under constraints. That is it. We don't tend to think about Guage Theory as advanced calculus, but it is. It's a calculus that was made to do economics.

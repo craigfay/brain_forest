@@ -1,6 +1,11 @@
 # Dao Te Ching
 Written in [[Ancient China|China around 400 BC]], probably by [[Lao Tzu]], the Dao Te Ching is an foundational text [[Taoism]], in both its philosophical and [[Mysticism|religious]] expressions. Chinese [[Buddhism]] relies heavily on grammar and vocabulary used earlier by the Dao Te Ching.
 
+## Title Translation
+**Dao** - Means "Way" in pinyin. "Dao" has special meaning within the context of Taoism, where it implies the essential, unnameable process of the universe.
+**Te** - "Virtue" / "Integrity"
+**Ching** - "Great Book"
+
 ## Memorable Quotations
 The Dao that can be told is not the eternal dao. The name that can be named is not the eternal name.  
   

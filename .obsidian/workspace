@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c2335449f21be388",
+        "id": "865b0a261fa19791",
         "type": "leaf",
-        "dimension": 49.064449064449065,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,18 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "f71a64084e5693a1"
-      },
-      {
-        "id": "865b0a261fa19791",
-        "type": "leaf",
-        "dimension": 50.935550935550935,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "f71a64084e5693a1"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,9 +87,10 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "c2335449f21be388",
+  "active": "865b0a261fa19791",
   "lastOpenFiles": [
     "markdown/Dao Te Ching.md",
+    "Untitled.md",
     "markdown/Guage Theory.md",
     "README.md",
     "markdown/Problems With Modern Physics.md",
@@ -109,7 +98,6 @@
     "markdown/Geometry.md",
     "markdown/Fermions.md",
     "markdown/Eudoxus.md",
-    "markdown/Euclid's Elements.md",
-    "markdown/Elusinian Mysteries.md"
+    "markdown/Euclid's Elements.md"
   ]
 }

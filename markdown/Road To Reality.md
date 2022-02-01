@@ -25,6 +25,13 @@ A representation is call **irreducible** if it is not reducible (with $C$ presen
 
 A representation is called **completely reducible** if we never get the above situation (with non-zero $C$), so that it is a direct sum of irreducible representations.
 
-**Semi-Simple Groups**
+**Semi-Simple Groups** are a well studied type of group. **Compact** simple groups have only representations that are completely reducible. See §12.6, Fig. 12.13 for a definition of "compact".
+
+It it sufficient to study *irreducible* representations of such a group, every representation being just a direct sum of these irreducible ones. In fact, every irreducible representation of a compact semi-simple group is finite-dimensional.
+
+What is a **semi-simple group?** There is a structure called the **Killing 
+form** $K$, constructed from the *structure constants* of §13.6. A group is semi-simple if $K_{\alpha\beta}$ is *non-singular*.
+
+
 
 

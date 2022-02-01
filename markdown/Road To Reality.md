@@ -32,6 +32,10 @@ It it sufficient to study *irreducible* representations of such a group, every r
 What is a **semi-simple group?** There is a structure called the **Killing 
 form** $K$, constructed from the *structure constants* of §13.6. A group is semi-simple if $K_{\alpha\beta}$ is *non-singular*.
 
+**Real Forms**: Given a structure constant ${\gamma_{\alpha\beta}}^{\chi}$, a real form is the compact real number Lie algebra obtained when $-K_{\beta\alpha}$ is positive-definite? *Not quite, but close*...
+
+*Any complex semi-simple Lie group has exactly one **real form** (definition needed) which is compact!*
+
 
 
 

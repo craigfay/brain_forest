@@ -6,10 +6,26 @@
       {
         "id": "c2335449f21be388",
         "type": "leaf",
+        "dimension": 49.064449064449065,
         "state": {
-          "type": "empty",
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Dao Te Ching.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "f71a64084e5693a1"
+      },
+      {
+        "id": "865b0a261fa19791",
+        "type": "leaf",
+        "dimension": 50.935550935550935,
+        "state": {
+          "type": "graph",
           "state": {}
-        }
+        },
+        "group": "f71a64084e5693a1"
       }
     ],
     "direction": "vertical"
@@ -49,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 178
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Dao Te Ching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +101,7 @@
   },
   "active": "c2335449f21be388",
   "lastOpenFiles": [
-    "Untitled.md",
+    "markdown/Dao Te Ching.md",
     "markdown/Guage Theory.md",
     "README.md",
     "markdown/Problems With Modern Physics.md",

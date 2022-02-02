@@ -39,5 +39,18 @@ form** $K$, constructed from the *structure constants* of §13.6. A group is sem
 
 ## 13.8 Orthogonal Groups
 
+We saw in the beginning of §13.3 how to represent O(3) and SO(3) as matrices. These groups represent symmetries of the sphere given by $x^{2} + y^{2} + z^{2} = 1$.
 
+We can use index notation to describe an $n$ dimensional sphere as $g_{ab}x^{a}x^{b} = 1$, which stands for ($x^{1})^{2} + ... + x^{n})^{2}$, the components $g_{ab}$ being given by:
+
+$$
+g_{ab} =
+	\bigg\{
+		\begin{array}{lr}
+		 1 \text{ if } a = b \\
+		 0 \text{ if } a \ne b \\
+		\end{array}
+$$
+
+*Here we should imagine that the effect of transformations is not to distort space, but just the bases that we use to measure them!*
 

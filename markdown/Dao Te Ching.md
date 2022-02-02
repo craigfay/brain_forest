@@ -6,6 +6,8 @@ Written in [[Ancient China|China around 400 BC]], probably by [[Lao Tzu]], the D
 **Te** - "Virtue" / "Integrity"
 **Ching** - "Great Book"
 
+Taken together: "The Great Book of the Virtues of the Tao"
+
 ## Memorable Quotations
 The Dao that can be told is not the eternal dao. The name that can be named is not the eternal name.  
   

@@ -6,7 +6,7 @@
       {
         "id": "865b0a261fa19791",
         "type": "leaf",
-        "dimension": 70.52096569250318,
+        "dimension": 58.91891891891892,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,12 +15,12 @@
             "source": false
           }
         },
-        "group": "b0c424fa8bb3357d"
+        "group": "3c1304f271ef91ac"
       },
       {
-        "id": "3b6b6ac378f5763e",
+        "id": "9b935d4b05d04b32",
         "type": "leaf",
-        "dimension": 29.47903430749682,
+        "dimension": 41.08108108108108,
         "state": {
           "type": "localgraph",
           "state": {
@@ -47,12 +47,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0033845907368397,
+              "scale": 1,
               "close": false
             }
           }
         },
-        "group": "b0c424fa8bb3357d"
+        "group": "3c1304f271ef91ac"
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 263
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -130,13 +130,13 @@
   "lastOpenFiles": [
     "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
     "markdown/Road To Reality.md",
-    "markdown/Pentagram Symbolism.md",
-    "markdown/Jonathan Pageau.md",
-    "markdown/George MacDonald.md",
-    "markdown/Phantastes.md",
-    "markdown/Unikernels.md",
-    "markdown/Groupoids.md",
-    "markdown/Problems with Contemporary Mathematics.md",
-    "markdown/Problems With Modern Physics.md"
+    "markdown/Road To Reality/Road To Reality.md",
+    "Road To Reality.md",
+    "markdown/Road To Reality/13.7 - Tensor Representation Spaces; Reducibility.md",
+    "markdown/Road To Reality/_Table Of Contents.md",
+    "markdown/Road To Reality/13.8 - Orthogonal Groups.md",
+    "13.7 - Tensor Representation Spaces; Reducibility.md",
+    "markdown/index.md",
+    "markdown/Pentagram Symbolism.md"
   ]
 }

@@ -60,6 +60,6 @@ This is an example of the **active tensor rule** from §13.7, as applied to $g_{
 
 The real orthogonal $n \times n$ matrices provide a concrete realization of the group $O(n)$. To specialize to the non-reflective $SO(n)$, we require that the determinant of the matrices be equal to unity.
 
-We can also consider the corresponding **pseudo-orthogonal** groups  $O(p, q)$ and $SO(p, q)$ that are obtained when $g$, though [[Non-Singular (Matrix)|non-singular]], is not necessarily [[Positive Definite (Matrix)|positive definite]].
+We can also consider the corresponding **pseudo-orthogonal** groups  $O(p, q)$ and $SO(p, q)$ that are obtained when $g$, though [[Non-Singular (Matrix)|non-singular]], is not necessarily [[Positive Definite (Matrix)|positive definite]]. The case when $p = 1$ and $q = 3$ (or $p=3$ and $q = 1$) is called the [[Lorentz Group]], which plays a critical role in relativity theory.
 
 

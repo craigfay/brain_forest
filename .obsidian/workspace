@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "865b0a261fa19791",
+        "id": "d7239973e723c9bd",
         "type": "leaf",
-        "dimension": 58.91891891891892,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,45 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "3c1304f271ef91ac"
-      },
-      {
-        "id": "9b935d4b05d04b32",
-        "type": "leaf",
-        "dimension": 41.08108108108108,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "3c1304f271ef91ac"
+        }
       }
     ],
     "direction": "vertical"
@@ -126,7 +87,7 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "865b0a261fa19791",
+  "active": "d7239973e723c9bd",
   "lastOpenFiles": [
     "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
     "markdown/Road To Reality.md",

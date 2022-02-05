@@ -60,6 +60,27 @@ This is an example of the **active tensor rule** from §13.7, as applied to $g_{
 
 The real orthogonal $n \times n$ matrices provide a concrete realization of the group $O(n)$. To specialize to the non-reflective $SO(n)$, we require that the determinant of the matrices be equal to unity.
 
-We can also consider the corresponding **pseudo-orthogonal** groups  $O(p, q)$ and $SO(p, q)$ that are obtained when $g$, though [[Non-Singular (Matrix)|non-singular]], is not necessarily [[Positive Definite (Matrix)|positive definite]]. The case when $p = 1$ and $q = 3$ (or $p=3$ and $q = 1$) is called the [[Lorentz Group]], which plays a critical role in relativity theory.
+### Pseudo Orthogonal Groups
 
+We can also consider the corresponding **pseudo-orthogonal** groups $O(p, q)$ and $SO(p, q)$ that are obtained when $g$, though [[Non-Singular (Matrix)|non-singular]], is not necessarily [[Positive Definite (Matrix)|positive definite]].
+
+How different are all the combinations of $O(p, q)$ in any dimension $n$? 
+- They all have the same dimension, $\frac{1}{2}n(n - 1)$ 
+- They are all [[Real Forms]] of the same complex group $O(n, \mathbb{C})$, which is the complexification of $O(n)$.  
+- Physicists often treat the combinations interchangeably, which Penrose suggests is inappropriate, even though there are great insights to be found in ignoring the distinctions.
+- They are distinguished by a certain set of inequalities on the matrix elements, such as $\det T = 0$.
+- These inequalities are often violated in physics. For example, complex numbers can have real significance in quantum mechanics.
+- This idea is related to the "can of worms" alluded to in §11.2.
+
+
+### Lorentz Group
+The case when $p = 1$ and $q = 3$ (or $p=3$ and $q = 1$) is called the [[Lorentz Group]].
+- It has the same symmetries as the hyperbolic 3 space of §2.7 and as the [[Riemann Sphere]], as achieved by the Mobius transformations of §8.2. 
+- It is critically important in [[Twistor Theory]] as described in §33.2.
+
+### Comparing Real and Complex Groups
+
+In complex group representations, the notion of **signature** disappears, because there are linear transformations that can convert a $-1$ into a $1$ on the diagonal of $g_{ab}$ and vice-versa. The only **invariant** of $g$ is its **rank**, which which is the number of non-zero terms in its diagonal realization. For. [[Non-Singular (Matrix)|non-singular]]]], matrices the rank has to be $n$.
+
+## 13.9 Unitary Groups
 

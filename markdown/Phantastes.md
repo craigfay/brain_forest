@@ -44,3 +44,16 @@ In the egg world, men and women fall in love with eachother, but instead of bein
 Cosmo is a young man who is poor, but from a noble family. He is well respected by his peers, but has no close friends. He lives alone in a house that he prefers others do not discover. Cosmo is an expert in arms, and an aquaintence of his is considering a suit of armor for purchase, and asks Cosmo to help determine its value. They enter a dusty antique shop, and the aquaintence buys the suit, validated by Cosmo's valuation.
 
 Cosmo spots an eliptical mirror, and is attracted to it. He leaves the store, but quickly returns to inspect it further. After pretending interest in other items, he asks the shopkeeper to take down the mirror. Its frame is beautifully designed and executed, and seems to posess undiscovered meaning in the figures of its carving. Cosmo asks the price, and is devastated by its unaffordability. The shopkeeper asks Cosmo's name, and reveals that he knew Cosmo's father closely. He offers Cosmo the mirror for 1/4 of it's marked price, under the condition that Cosmo give him first offer if he ever decides to part with the mirror.
+
+
+## Chapter 17 - The Goblins in the Country of Stone
+
+Anados is mocked by goblins who imitate his song to the White Lady. They pin him down, and taunt him with the possibility that she will choose to be with a better man. They relent when Anados surrenders her to the better man, if he exists.
+
+An evil woman appears to taunt Anados (the terrible mother?). 
+
+## Chapter 18 - The Beach
+
+Anados walks throught the country of stone, which begins to narrow. It becomes so narrow that he must crawl with great difficulty. He sees a light ahead of him, accompanied with nighmares of his childhood. He presses on, knowing that this is his only way out of the country of stone. He emerges onto a wintery beach.
+
+ q

@@ -1,7 +1,7 @@
 # Matrix
 In [[Linear Algebra]], a matrix is a grid of scalars that can be thought of as a map from one scalar field to another. Matrices are also called **Linear Transformations** or **Linear Maps**. 
 
-The conceptual difference between a linear transformation and a matrix is that the latter refers to some basis- dependent presentation, whereas the former is abstract, not depending upon a basis.
+The conceptual difference between a linear transformation anda matrix is that the latter refers to some basis- dependent presentation, whereas the former is abstract, not depending upon a basis.
 
 ## Transformation Properties
 A transformation must satisfy these properties to be considered "linear".

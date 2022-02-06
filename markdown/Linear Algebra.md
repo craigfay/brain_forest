@@ -6,4 +6,3 @@ It is used in almost every branch of mathematics and much of engineering, largel
 
 [[Non-Linear Systems]] cannot be modeled using linear algebra.
 
-

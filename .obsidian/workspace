@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Linear Algebra.md",
+            "file": "markdown/Phantastes.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Linear Algebra.md",
+            "file": "markdown/Phantastes.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 143
+    "width": 408.0121879577637
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Linear Algebra.md",
+                "file": "markdown/Phantastes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +126,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "650bb7b6e20af2a3",
+  "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Phantastes.md",
+    "markdown/Rust (Programming Language).md",
+    "markdown/The Book of Five Rings.md",
     "markdown/Linear Algebra.md",
     "markdown/Matrix (Linear Algebra).md",
     "markdown/Non-Singular (Matrix).md",
     "markdown/Trace (Operation).md",
     "markdown/Tensor.md",
     "markdown/Vector (Linear Algebra).md",
-    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
-    "markdown/Road To Reality.md",
-    "markdown/Road To Reality/Road To Reality.md",
-    "Road To Reality.md"
+    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md"
   ]
 }

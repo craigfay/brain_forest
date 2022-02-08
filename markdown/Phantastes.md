@@ -54,6 +54,10 @@ An evil woman appears to taunt Anados (the terrible mother?).
 
 ## Chapter 18 - The Beach
 
-Anados walks throught the country of stone, which begins to narrow. It becomes so narrow that he must crawl with great difficulty. He sees a light ahead of him, accompanied with nighmares of his childhood. He presses on, knowing that this is his only way out of the country of stone. He emerges onto a wintery beach.
+Anados walks throught the country of stone, which begins to narrow. It becomes so narrow that he must crawl with great difficulty. He sees a light ahead of him, accompanied with nighmares of his childhood. He presses on, knowing that this is his only way out of the country of stone. He emerges onto a wintery beach of rocks that stretch endlessly out of sight.
 
- q
+A cold, deathlike wind chills Anados, and he feels that death is slowly overtaking him. He resigns to use his remaining energy to cast himself into the waves and die of his own choice. He walks out onto a small penninsula and jumps into the water. 
+
+Underneath, he feels a warm embrace, and compares it to being held by the Beech Tree. He floats to the surface, and declines to open his eyes for fear of the waves. He is nudged by a small boat, with fish-like rainbow scales. He climbs inside and puts on a heavy purple cloth. The beach is gone, and the sea has become totally still, and the sky is a perpetual twilight. The stars embrace the waters.
+
+Underneath the waves, Anados sees scenes and faces from his past, but can't convince himself that they're real. He falls asleep, and has dreams of meeting all of his oldest friends. All that have died do not remember death, and all that he has wronged pardon him eagerly.

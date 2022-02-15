@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 63.93146979260595,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/Algebra.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "45f30b51c926264f"
       },
@@ -20,6 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "markdown/Algebra.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Algebra.md",
     "Untitled.md",
     "markdown/Category Theory.md",
     "markdown/Evariste Galois.md",
@@ -130,7 +137,6 @@
     "markdown/Big 5 Aspects of Personality.md",
     "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
     "markdown/Road To Reality.md",
-    "markdown/Perception and Meaning.md",
-    "markdown/Phantastes.md"
+    "markdown/Perception and Meaning.md"
   ]
 }

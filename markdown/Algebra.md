@@ -18,3 +18,5 @@ Whitehead, however, had no results of a general nature. Work on the subject was 
 
 ## Operads
 Algebras are to operads as group representations are to groups. An operad can be seen as a set of operations, each one having a fixed finite number of inputs (arguments) and one output, which can be composed one with others. They form a category-theoretic analog of universal algebra.
+
+Operads originate in algebraic topology from the study of iterated loop spaces by J. Michael Boardman and Rainer M. Vogt, and J. Peter May. The word "operad" was created by May as a portmanteau of "operations" and "monad" (and also because his mother was an opera singer).

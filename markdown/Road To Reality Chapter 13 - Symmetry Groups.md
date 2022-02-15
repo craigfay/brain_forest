@@ -51,7 +51,7 @@ $$
 
 *Here we should imagine that the effect of transformations is not to distort space, but to adjust the bases that we use to measure them!*
 
-The **orthogonal group** is the group of linear transformations in $n$ dimensions that that preserve a given positive-definite $g$. Preserving $g$ means that an orthogonal transformation has to satisfy:
+The **orthogonal group** is the group of linear transformations in $n$ dimensions that preserve a given positive-definite $g$. Preserving $g$ means that an orthogonal transformation has to satisfy:
 
 $$
 {g_{ab}} {{T^{a}}_{c}} {{T^{b}}_{d}} = g_{cd}
@@ -80,7 +80,18 @@ The case when $p = 1$ and $q = 3$ (or $p=3$ and $q = 1$) is called the [[Lorentz
 
 ### Comparing Real and Complex Groups
 
-In complex group representations, the notion of **signature** disappears, because there are linear transformations that can convert a $-1$ into a $1$ on the diagonal of $g_{ab}$ and vice-versa. The only **invariant** of $g$ is its **rank**, which which is the number of non-zero terms in its diagonal realization. For. [[Non-Singular (Matrix)|non-singular]]]], matrices the rank has to be $n$.
+In complex group representations, the notion of **signature** disappears, because there are linear transformations that can convert a $-1$ into a $1$ on the diagonal of $g_{ab}$ and vice-versa. The only **invariant** of $g$ is its **rank**, which which is the number of non-zero terms in its diagonal realization. For. [[Non-Singular (Matrix)|non-singular]], matrices the rank has to be $n$.
 
 ## 13.9 Unitary Groups
 
+The group $O(n, \mathbb{C})$ represents one way to generalize a rotation group from the real to the complex numbers. Unitary groups are another way to do the same.
+
+The orthogonal group is concerned with preserving the **quadratic form**. The unitary group is concerned with preserving the **Hermitian form**, and uses complex linear transformations to do so.
+
+The **complex conjugation** operation is often called **Hermitian conjugation**. It identifies the complex-conjugate space with the dual space, and is centrally important to quantum mechanics and Twistor theory. It is often represented with the dagger symbol or an asterisk.
+
+The group of unitary tranformations in n dimensions is called the *unitary group* $U(n)$. We get the psuedo-unitary group $U(p,q)$ when the hermitian conjugate operator has the form $(p,q)$.
+
+If the tranformations have a determinant of 1, then we obtain $SU(n)$ and $SU(p, q)$!
+
+## 13.10 Symplectic Groups

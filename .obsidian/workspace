@@ -6,11 +6,11 @@
       {
         "id": "d7239973e723c9bd",
         "type": "leaf",
-        "dimension": 53.022578295702836,
+        "dimension": 63.93146979260595,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Phantastes.md",
+            "file": "Big 5 Aspects of Personality.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "650bb7b6e20af2a3",
         "type": "leaf",
-        "dimension": 46.977421704297164,
+        "dimension": 36.06853020739405,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Phantastes.md",
+            "file": "Big 5 Aspects of Personality.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Phantastes.md",
+                "file": "Big 5 Aspects of Personality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "Big 5 Aspects of Personality.md",
+    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+    "markdown/Road To Reality.md",
+    "Perception and Meaning.md",
     "markdown/Phantastes.md",
     "markdown/Rust (Programming Language).md",
     "markdown/The Book of Five Rings.md",
     "markdown/Linear Algebra.md",
     "markdown/Matrix (Linear Algebra).md",
-    "markdown/Non-Singular (Matrix).md",
-    "markdown/Trace (Operation).md",
-    "markdown/Tensor.md",
-    "markdown/Vector (Linear Algebra).md",
-    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md"
+    "markdown/Non-Singular (Matrix).md"
   ]
 }

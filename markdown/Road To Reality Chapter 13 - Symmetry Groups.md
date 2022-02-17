@@ -106,3 +106,39 @@ It looks like this? $g(x,y) = g(y,x)$
 The symplectic group is like the orthogonal group, except with an antisymmetry property and linearity.
 
 An anti-symmetric $n \times n$ matrix $S$ can only be non-singular if $n$ is even.
+
+From wikipedia:
+he symplectic group is a [classical group](https://en.wikipedia.org/wiki/Classical_group "Classical group") defined as the set of [linear transformations](https://en.wikipedia.org/wiki/Linear_transformations "Linear transformations") of a $2n$-dimensional [vector space](https://en.wikipedia.org/wiki/Vector_space "Vector space") over the field $F$ which preserve a [non-degenerate](https://en.wikipedia.org/wiki/Nondegenerate_form "Nondegenerate form") [skew-symmetric](https://en.wikipedia.org/wiki/Skew-symmetric_matrix "Skew-symmetric matrix") [bilinear form](https://en.wikipedia.org/wiki/Bilinear_form "Bilinear form")
+
+Since all symplectic matrices have [[Determinant (Operation)|determinant]] of 1, the symplectic group is a subgroup of the special linear group $SL(2n, F)$.
+
+For $Sp(2, R)$, the three symplectic matrices are:
+
+$$
+\begin{pmatrix}  
+1 & 0 \\  
+0 & 1  
+\end{pmatrix}
+, \mspace{15mu}
+
+\begin{pmatrix}  
+1 & 0 \\  
+1 & 1  
+\end{pmatrix}
+, \mspace{15mu} and \mspace{15mu}
+
+\begin{pmatrix}  
+1 & 1 \\  
+0 & 1  
+\end{pmatrix}
+$$
+
+Noteworthy subgroups of $Sp(n)$ are:
+- $Sp(n) \subset Sp(n - 1)$
+- $Sp(n) \subset U(n)$
+- $Sp(n) \subset O(4)$
+
+$Sp(n)$ is a subgroup of several important groups:
+- $SU(2n) \supset Sp(n)$
+- $F_4 \supset Sp(4)$
+- $G_4 \supset Sp(1)$

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+            "file": "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+            "file": "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 467.49999809265137
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+                "file": "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,8 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
-    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+    "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
+    "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
     "markdown/Road To Reality.md",
     "markdown/Exodus.md",
     "markdown/Awakening From the Meaning Crisis.md",
@@ -136,7 +137,6 @@
     "Operad.md",
     "markdown/Category Theory.md",
     "markdown/Evariste Galois.md",
-    "markdown/Group Theory.md",
-    "markdown/Point Groups.md"
+    "markdown/Group Theory.md"
   ]
 }

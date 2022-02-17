@@ -1,3 +1,7 @@
+# Chapter 13 - Symmetry Groups
+
+Symmetry groups can be represented as matrices that act on vector spaces.
+
 ## 13.7 Tensor Representation Spaces; Reducability
 Comprehension: 2/5
 
@@ -142,3 +146,4 @@ $Sp(n)$ is a subgroup of several important groups:
 - $SU(2n) \supset Sp(n)$
 - $F_4 \supset Sp(4)$
 - $G_4 \supset Sp(1)$
+

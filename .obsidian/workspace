@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Exodus.md",
+            "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Exodus.md",
+            "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Exodus.md",
+                "file": "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,8 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md",
+    "markdown/Road To Reality.md",
     "markdown/Exodus.md",
     "markdown/Awakening From the Meaning Crisis.md",
     "markdown/Algebra.md",
@@ -135,8 +137,6 @@
     "markdown/Category Theory.md",
     "markdown/Evariste Galois.md",
     "markdown/Group Theory.md",
-    "markdown/Point Groups.md",
-    "markdown/Big 5 Aspects of Personality.md",
-    "markdown/Road To Reality Chapter 13 - Symmetry Groups.md"
+    "markdown/Point Groups.md"
   ]
 }

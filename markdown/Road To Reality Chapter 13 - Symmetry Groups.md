@@ -95,3 +95,14 @@ The group of unitary tranformations in n dimensions is called the *unitary group
 If the tranformations have a determinant of 1, then we obtain $SU(n)$ and $SU(p, q)$!
 
 ## 13.10 Symplectic Groups
+
+Often denoted $Sp(2n, F)$ where $F$ is a field.
+
+Orthogonal and Unitary groups are considered **classical** groups. **Symplectic** complete the list of classical groups. They are useful for representing classical (§20.4) and quantum (§26.3) physics.
+
+*What is bilinear form?*
+It looks like this? $g(x,y) = g(y,x)$
+
+The symplectic group is like the orthogonal group, except with an antisymmetry property and linearity.
+
+An anti-symmetric $n \times n$ matrix $S$ can only be non-singular if $n$ is even.

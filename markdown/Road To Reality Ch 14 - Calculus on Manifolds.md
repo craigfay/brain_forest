@@ -26,3 +26,13 @@ The **exterior derivative** of §12.6 actually does apply to general, smooth, un
 A complete notion of the *derivative* of a quantity (like a vector or tensor field) on our general smooth manifold would have to be coordinate independent. **It would enable us to express how a vector or tensor field varies as we move from place to place.**
 
 ## 14.2 Parallel Transport
+
+*Imagine taking the curve of a function in 2D and wrapping a graph of it around a curved surface. How. would you measure rise-over-run, now that the direction of the X and Y axis are no longer clear at any point?*
+
+To measure rate-of-change, we need a **constant** field on $M$. (Remember §10.3) A smooth manifold does not necessarily have **parallelism**. The coordinate systems on two overlapping patches are not guaranteed to have parallel basis vectors.
+
+We can use **parallel transport** to (???).
+
+We can parallel transport by embedding our manifold (say for example the sphere, $S_2$) into a larger ambient space, (say $E_3$). As we transport the tail of a tangent vector $v$ around the surface of the sphere, the rest of its body will point off into the ambient space. We need our notion of parallelism to only include tangent vectors. *This is intuitive, but why?* We project the transported vector back onto tangency with the sphere. *How do we decide on a projection scheme?*
+
+The new notion of parallelism that this leads us to has a property called **path dependence**. The type of parallel transport here will can change the rotation of the tangent vectors, but not their magnitude. (Other types of parallel transport can change magnitude.) 

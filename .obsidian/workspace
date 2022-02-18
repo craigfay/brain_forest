@@ -6,7 +6,7 @@
       {
         "id": "d7239973e723c9bd",
         "type": "leaf",
-        "dimension": 63.93146979260595,
+        "dimension": 60.66666666666667,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,7 +20,7 @@
       {
         "id": "650bb7b6e20af2a3",
         "type": "leaf",
-        "dimension": 36.06853020739405,
+        "dimension": 39.33333333333333,
         "state": {
           "type": "localgraph",
           "state": {
@@ -44,7 +44,7 @@
               "lineSizeMultiplier": 1,
               "collapse-forces": false,
               "centerStrength": 0.588008853815802,
-              "repelStrength": 11.4887883745549,
+              "repelStrength": 17.6759894459103,
               "linkStrength": 0.715811760177076,
               "linkDistance": 30,
               "scale": 0.9005539968939388,
@@ -126,11 +126,11 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "d7239973e723c9bd",
+  "active": "650bb7b6e20af2a3",
   "lastOpenFiles": [
     "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
-    "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
     "markdown/Road To Reality.md",
+    "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
     "markdown/Exodus.md",
     "markdown/Awakening From the Meaning Crisis.md",
     "markdown/Algebra.md",

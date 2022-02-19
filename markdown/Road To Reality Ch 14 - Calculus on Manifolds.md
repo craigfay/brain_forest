@@ -36,3 +36,10 @@ We can use **parallel transport** to (???).
 We can parallel transport by embedding our manifold (say for example the sphere, $S_2$) into a larger ambient space, (say $E_3$). As we transport the tail of a tangent vector $v$ around the surface of the sphere, the rest of its body will point off into the ambient space. We need our notion of parallelism to only include tangent vectors. *This is intuitive, but why?* We project the transported vector back onto tangency with the sphere. *How do we decide on a projection scheme?*
 
 The new notion of parallelism that this leads us to has a property called **path dependence**. The type of parallel transport here will can change the rotation of the tangent vectors, but not their magnitude. (Other types of parallel transport can change magnitude.) 
+
+## 14.3 Covariant Derivative
+How can we use parallel transport to define a derivative operator on a curved surface?
+
+We get the  covariant derivative by comparing a vector field with vectors produced by parallel transport. The covariant derivative is also called a **connection**.
+
+We subtract the parallel transported vector from the vector field?

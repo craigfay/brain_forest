@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WebAssembly.md",
+            "file": "markdown/WebAssembly.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "WebAssembly.md",
+            "file": "markdown/WebAssembly.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebAssembly.md",
+                "file": "markdown/WebAssembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
-    "WebAssembly.md",
+    "markdown/WebAssembly.md",
+    "README.md",
+    "markdown/Friedrich Nietschze.md",
+    "markdown/Exodus.md",
+    "markdown/Egyptian Pantheon.md",
     "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
     "markdown/Road To Reality.md",
     "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
-    "markdown/Exodus.md",
     "markdown/Awakening From the Meaning Crisis.md",
-    "markdown/Algebra.md",
-    "Operad.md",
-    "markdown/Category Theory.md",
-    "markdown/Evariste Galois.md"
+    "markdown/Algebra.md"
   ]
 }

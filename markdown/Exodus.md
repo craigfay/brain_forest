@@ -15,3 +15,14 @@ The serpent as a staff, the serpent in the tree of life, and the serpent held up
 
 Pharoah is more than a man, but also a god. The plagues are parodies of other gods in the Egyptian pantheon.
 
+## Chapter 5
+
+Moses and Aaron ask Pharoah for 3 days in the wilderness to have a ceremony with the Israelites.
+
+Pharoah requires the Israelites to make bricks without being provided straw.
+
+## Chapter 6
+
+God reiterates his promise to free Israel, and the writer recounts the lineage of Moses and Aaron. Moses asks God why Pharoah would listen to him with faltering lips.
+
+Moses is the great grandson of Levi.

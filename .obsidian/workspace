@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/WebAssembly.md",
+            "file": "markdown/Ray Dalio.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/WebAssembly.md",
+            "file": "markdown/Ray Dalio.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/WebAssembly.md",
+                "file": "markdown/Ray Dalio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +128,7 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Ray Dalio.md",
     "markdown/WebAssembly.md",
     "README.md",
     "markdown/Friedrich Nietschze.md",
@@ -136,7 +137,6 @@
     "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
     "markdown/Road To Reality.md",
     "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
-    "markdown/Awakening From the Meaning Crisis.md",
-    "markdown/Algebra.md"
+    "markdown/Awakening From the Meaning Crisis.md"
   ]
 }

@@ -10,8 +10,7 @@ Isadore Singer was considering the work of Jim Simons and Frank Yang, and on the
 [[Roger Penrose]] had a similar insight about how the the Complex Hopf Fibration producing the structure that kickstarted Twistor theory.
 
 ## The Geometric Quantization Revolution
-Nick Woodhouse discovers that Heisenberg's uncertainty principle relations strangely emerge from curvature. It's related to the "pre-quantum line bundle" (Weinstein says that the terminology is screwed up). What we had previously treated as the annoyance of the Heisenberg uncertainty principle became the beauty of a Geometric Quantum.
-
+Nick Woodhouse discovers that Heisenberg's uncertainty principle relations strangely emerge from curvature. It's related to the "pre-quantum line bundle" (Weinstein says that the terminology is screwed up). What we had previously treated as the annoyance of the Heisenberg uncertainty principle became the beauty of a Geometric Quantum. 
 ## Geometrical QFT
 Graeme Segal discovers that Quantum Field Theory, which is above Quantum Mechanics, and necessary for regimes in which the number of particles changes, would have been discovered by topologists and geometers even if the physical world had never used it, because it was a naturally occuring augmentation of Bordism Theory, which is an enhancement of [[Cohomology]].
 

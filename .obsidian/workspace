@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Instanton.md",
+            "file": "markdown/The Legacy of Curvature in Physics.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Instanton.md",
+            "file": "markdown/The Legacy of Curvature in Physics.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Instanton.md",
+                "file": "markdown/The Legacy of Curvature in Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,8 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
-    "markdown/Instanton.md",
     "markdown/The Legacy of Curvature in Physics.md",
+    "markdown/Instanton.md",
     "markdown/Hopf Fibrations.md",
     "markdown/Continuity.md",
     "markdown/Ray Dalio.md",

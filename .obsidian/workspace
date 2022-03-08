@@ -6,11 +6,11 @@
       {
         "id": "d7239973e723c9bd",
         "type": "leaf",
-        "dimension": 60.66666666666667,
+        "dimension": 65.91666666666667,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Ray Dalio.md",
+            "file": "markdown/Instanton.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "650bb7b6e20af2a3",
         "type": "leaf",
-        "dimension": 39.33333333333333,
+        "dimension": 34.08333333333333,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "markdown/Ray Dalio.md",
+            "file": "markdown/Instanton.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -47,7 +47,7 @@
               "repelStrength": 17.6759894459103,
               "linkStrength": 0.715811760177076,
               "linkDistance": 30,
-              "scale": 0.9005539968939388,
+              "scale": 0.8055354578492296,
               "close": true
             }
           }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.49999809265137
+    "width": 468.49999809265137
   },
   "right": {
     "id": "bc43735f3f5bb037",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Ray Dalio.md",
+                "file": "markdown/Instanton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Instanton.md",
+    "markdown/The Legacy of Curvature in Physics.md",
+    "markdown/Hopf Fibrations.md",
+    "markdown/Continuity.md",
     "markdown/Ray Dalio.md",
     "markdown/WebAssembly.md",
     "README.md",
     "markdown/Friedrich Nietschze.md",
     "markdown/Exodus.md",
-    "markdown/Egyptian Pantheon.md",
-    "markdown/Road To Reality Ch 14 - Calculus on Manifolds.md",
-    "markdown/Road To Reality.md",
-    "markdown/Road To Reality Ch 13 - Symmetry Groups.md",
-    "markdown/Awakening From the Meaning Crisis.md"
+    "markdown/Egyptian Pantheon.md"
   ]
 }

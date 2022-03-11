@@ -6,53 +6,14 @@
       {
         "id": "d7239973e723c9bd",
         "type": "leaf",
-        "dimension": 65.91666666666667,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/The Legacy of Curvature in Physics.md",
+            "file": "markdown/Creation Myths.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "45f30b51c926264f"
-      },
-      {
-        "id": "650bb7b6e20af2a3",
-        "type": "leaf",
-        "dimension": 34.08333333333333,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "markdown/The Legacy of Curvature in Physics.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.588008853815802,
-              "repelStrength": 17.6759894459103,
-              "linkStrength": 0.715811760177076,
-              "linkDistance": 30,
-              "scale": 0.8055354578492296,
-              "close": true
-            }
-          }
-        },
-        "group": "45f30b51c926264f"
+        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/The Legacy of Curvature in Physics.md",
+                "file": "markdown/Creation Myths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +89,15 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
-    "markdown/The Legacy of Curvature in Physics.md",
-    "markdown/Instanton.md",
-    "markdown/Hopf Fibrations.md",
-    "markdown/Continuity.md",
-    "markdown/Ray Dalio.md",
-    "markdown/WebAssembly.md",
-    "README.md",
+    "markdown/Creation Myths.md",
     "markdown/Friedrich Nietschze.md",
-    "markdown/Exodus.md",
-    "markdown/Egyptian Pantheon.md"
+    "markdown/Dihedrons.md",
+    "markdown/Geometry.md",
+    "markdown/Continuity.md",
+    "markdown/Roger Penrose.md",
+    "markdown/Road To Reality.md",
+    "markdown/Dedicand.md",
+    "markdown/Paul Dirac.md",
+    "markdown/The Legacy of Curvature in Physics.md"
   ]
 }

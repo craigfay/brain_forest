@@ -19,7 +19,7 @@ The ancient Greeks were interested in how to construct a ruler. They had a type 
 
 The greeks thought of segments as the fundamental unit of arithmetic. 
 
-In the 19th century, [[von Staudt]] and [[David Hilbert]] extended affine Geometry to define addition and multiplication in the context of segments.
+In the 19th century, [[Von Staudt]] and [[David Hilbert]] extended affine Geometry to define addition and multiplication in the context of segments.
 
 ![[affine_arithmetic 1.png]]
 

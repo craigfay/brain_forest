@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/Creation Myths.md",
+            "file": "markdown/Complex Numbers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Creation Myths.md",
+                "file": "markdown/Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Complex Numbers.md",
     "markdown/Creation Myths.md",
     "markdown/Friedrich Nietschze.md",
     "markdown/Dihedrons.md",
@@ -97,7 +98,6 @@
     "markdown/Roger Penrose.md",
     "markdown/Road To Reality.md",
     "markdown/Dedicand.md",
-    "markdown/Paul Dirac.md",
-    "markdown/The Legacy of Curvature in Physics.md"
+    "markdown/Paul Dirac.md"
   ]
 }

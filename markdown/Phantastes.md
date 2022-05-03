@@ -1,6 +1,12 @@
 # Phantastes by George MacDonald
 First published in 1858 in London, *Phantastes* is a fanstasy novel about a young man named Anados, who stumbles into a dream-like world called Fairy Land. The work was heavily influenced by [[Early German Romanticism|German Romanticists]], particularly [[Novalis]]
 
+
+## Chapter 3 - The Old Woman's Cottage
+
+
+
+
 ## Chapter 8 - The Ogre and the Shadow
 Anados finds a house in the woods, which is built against the base of a tall tree. Inside, he sees an old woman reading from a book that she holds open with one hand on the table besides her. Anados becomes curious about a door in the house, and the old woman warns him not to enter. He enters anyway, and finds a portal to something like the void. The dark figure of a man glides towards Anados through the portal, and passes through him. Anados spins around, not finding the figure behind him, but the woman tells him that it was his long-searching shadow which has now found him. He decides that the woman must be the ogre that he was warned about by his previous hosts.
 

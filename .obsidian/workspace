@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/G.K. Chesterton - Orthodoxy.md",
+            "file": "markdown/Maps of Meaning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/G.K. Chesterton - Orthodoxy.md",
+                "file": "markdown/Maps of Meaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d7239973e723c9bd",
   "lastOpenFiles": [
+    "markdown/Maps of Meaning.md",
     "markdown/G.K. Chesterton - Orthodoxy.md",
     "markdown/Phantastes.md",
     "markdown/Complex Numbers.md",
@@ -97,7 +98,6 @@
     "markdown/Creation Myths.md",
     "markdown/Friedrich Nietschze.md",
     "markdown/Dihedrons.md",
-    "markdown/Geometry.md",
-    "markdown/Continuity.md"
+    "markdown/Geometry.md"
   ]
 }

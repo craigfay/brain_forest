@@ -4,6 +4,13 @@ First published in 1858 in London, *Phantastes* is a fanstasy novel about a youn
 
 ## Chapter 3 - The Old Woman's Cottage
 
+## Chapter 4 - The Encounter with the Beech Tree
+
+## Chapter 5 - The Cave of the White Lady
+	Anodos walks in the woods, and begins to understand the conversations of animals after eating wild fruit from fairy land. **This is akin to the fruit of Eden! He also remarks on the presence of dangerous snakes.** He descends down a rocky hill and into a mossy cave, and reclines on mossy furniture. He sees a relief in the rock that he surmised as Pygmalion. He finds a stone of alabaster that contains a white lady.
+
+## Chapter 6 - The Rusty Knight
+
 
 
 

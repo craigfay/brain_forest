@@ -13,3 +13,12 @@ MIR is Rust's _Mid-level Intermediate Representation_.
 ## Rust Dev Guide
 The [Rust Dev Guide](https://rustc-dev-guide.rust-lang.org/contributing.html) is a great place to read about the internal workings of the language.
 
+## Release Build Optimizations
+```
+[profile.release]
+codegen-units = 1 # Removes dead code
+opt-level = "s" # Optimize for size
+lto = true
+```
+
+See [Min Sized Rust](https://github.com/johnthagen/min-sized-rust) for a list of tricks to improve your build size!

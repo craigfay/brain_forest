@@ -1,4 +1,4 @@
-# Lie Algebras
+# Lie Algebras (Road to Reality)
 A Lie [[Algebra]] is a [[Associativity|non-associative]] algebra formed by the union of:
 - A [[Vector (Linear Algebra)]] *G*
 - An [[Operators|operation]] called the "Lie Bracket"

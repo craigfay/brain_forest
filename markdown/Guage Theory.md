@@ -6,7 +6,7 @@ We see that various guages agree with one another by defining **guage transforma
 
 We say that the laws of [[Physics]] have to be unaffected by the guages that we use to describe them. We call this property **guage invariance**, and it is a form of symmetry: Physics is symmetric under an arbitrary choice of guage.
 
-We can describe guage symmetries using [[Group Theory|Lie Groups]]. Our guage fields will be represented as [[Lie Algebras]]. *Is this precise?* The guage fields will be "group valued" objects which transform under a particular representation of a Lie Group.
+We can describe guage symmetries using [[Group Theory|Lie Groups]]. Our guage fields will be represented as [[Lie Algebras (Road to Reality)]]. *Is this precise?* The guage fields will be "group valued" objects which transform under a particular representation of a Lie Group.
 
 The guage symmetry acts on these guage fields through a representation of a Lie Group.
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "database internals",
+  "search": "Lie Algebra",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4806861945846693,
-  "close": true
+  "scale": 1.446248438447095,
+  "close": false
 }

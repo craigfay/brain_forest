@@ -67,15 +67,15 @@ Three common variables:
 - Mutable or immutable files? immutable strategies include **append-only files** and **copy-on-write**.
 - Store values in order or out of order? Storing out of order allows write time optimizations, such as [Bitcask]() and [WiscKey]().
 
-## The All Important B-Tree
-- The *balanced* tree has a height of $log_{2}(N)$, where $N$ is the number of items in the tree.
+## Binary Search Trees
+- The **Balanced Binary Search Tree** has a height of $log_{2}(N)$, where $N$ is the number of items in the tree.
 - Without balancing, performance benefits are lost because the structure is determined by insertions and deletions.
 - Lookup in an unbalanced tree is $O(N)$ in the worst case, where all items are on one side of the tree (basically a linked list).
 - Balancing is done after each insertion, usually by **rotation**. If an insert leaves the tree unbalanced (two consecutive nodes in the branch have only one child), the first node is switched with its parent.
 	- `(A) -> (B) -> (C)` becomes `(B) -> (A, C)`
 - Because of the frequently updated pointers, and because following multiple pointers on disk is expensive, disk-implementations of B-Trees are impractical.
 - On disk, there would be no guarantee that a child would be written close to its parent, because elements are added in random order. This is slightly improved in the case of [Paged Binary Trees]().
-- A hypothetically better on-disk data structure would have **high fanout** (children per node) to improve locality of neighboring keys, and **low height** to reduce the number of seeks when following pointers.
+- A hypothetically better on-disk data structure would have **high fanout** (children per node) to improve locality of neighboring keys, and **low height** to reduce the number of seeks when following pointers. *This is a description of the B-Tree*.
 
 ## Hard Disk Drives
 Most traditional algorithms were developed when spinning disks were ubiquitous. Spinning disks increase the cost of random reads, because the read-write head had to move to the desired location. Because head movement is so expensive, there has been an emphasis on organizing data sequentially and compactly on the disk.
@@ -101,6 +101,17 @@ When we read a single word from a block device, the whole block containing it is
 
 Garbage collection can hurt write performance, especially when writes are random and unaligned.
 
+## The Ubiquitous B-Tree
+**B-Tree** is an umbrella term for structures that have several properties:
+- B-Trees are like binary search trees with more fanout and smaller height.
+- B-Trees are sorted, which allows us to logarithmically search for elements.
+- Balancing operations (splits and merges) are performed when nodes are full or nearly empty.
 
+We use the nodes of a B-Trees to act as pages of records.
 
+To be precise with language: B-Trees allow storing values on any level: in root, internal, and leaf nodes. **B+-Trees** store values only in leaf nodes.
+
+Since values in B+-Trees are stored only on the leaf level, all operations (inserting, updating, removing, and retrieving data records) affect only leaf nodes and propagate to higher levels only during splits and merges.
+
+Some B-Tree variants also have sibling node pointers, most often on the leaf level, to simplify range scans. These pointers help avoid going back to the parent to find the next sibling. Some implementations have pointers in both directions, forming a double-linked list on the leaf level, which makes the reverse iteration possible.
 

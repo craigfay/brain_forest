@@ -30,3 +30,33 @@ If we tried to take inverses, we'd probably try to expand it as a power series, 
 
 You would probably learn about this in an [[Abstract Algebra]] class. At the end of the first semester, you might be shown $k[x]$, where $k$ is an arbitrary field. It has interesting properties like **unique factorization**.
 
+## Another Example: $M_{2 \times 2}$
+The set of all 2 x 2 matrices. Multiplication is just matrix multiplication, which is associative, but not commutative.
+
+## Another Example: $\mathbb{C}^{3}$
+Three-entry complex numbers. This is just a vector with 3 complex numbers in it. We'll use the cross-product as multiplication.
+
+
+| Notation | Name | Multiplication | Associative | Commutative | Inverses |
+| --- | --- | --- | --- | --- | --- |
+| $\mathbb{C}$ | Complex Numbers | Complex Number Multiplication | ✅ | ✅ | ✅ |
+| $\mathbb{C}[x]$ | Complex Polynomials | 🤔 | ✅ | ✅ | ❌ |
+| $M_{2 \times 2}$ | 2 x 2 Matrices | Matrix Multiplication | ✅ | ❌ | 🤔 |
+| $\mathbb{C}^{3}$ | Three-Entry Complex Numbers | Cross Product | ❌ | ❌ | 🤔 |
+| $\mathscr{L}$ | Lie Algebra | Lie Bracket | ❌ | ? | ? |
+
+
+## Associative Algebras
+These are algebras that have the **associative property**. What is the simpliest type of non-associative algebra? It is in fact, a **Lie Algebra**.
+
+A Lie algebra also satisfies something called **skew symmetry**, which says that for all $\alpha$ and $\beta$ in $\mathscr{L}$, we have $[\alpha, \beta] = -[\beta, \alpha]$.
+
+"This is equivalent to saying, alpha bracket itself equals zero for all alpha in L".
+
+$\iff [\alpha, \alpha] = 0 \, \forall \, \alpha \in \mathscr{L}$
+
+
+
+
+
+

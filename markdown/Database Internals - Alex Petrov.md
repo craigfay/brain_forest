@@ -107,11 +107,112 @@ Garbage collection can hurt write performance, especially when writes are random
 - B-Trees are sorted, which allows us to logarithmically search for elements.
 - Balancing operations (splits and merges) are performed when nodes are full or nearly empty.
 
+
 We use the nodes of a B-Trees to act as pages of records.
 
-To be precise with language: B-Trees allow storing values on any level: in root, internal, and leaf nodes. **B+-Trees** store values only in leaf nodes.
+To be precise with language: B-Trees allow storing values on any level: in root, internal, and leaf nodes. **B+-Trees** store values only in leaf nodes; Non-leaf nodes only store keys, and pointers to other nodes.
 
 Since values in B+-Trees are stored only on the leaf level, all operations (inserting, updating, removing, and retrieving data records) affect only leaf nodes and propagate to higher levels only during splits and merges.
 
 Some B-Tree variants also have sibling node pointers, most often on the leaf level, to simplify range scans. These pointers help avoid going back to the parent to find the next sibling. Some implementations have pointers in both directions, forming a double-linked list on the leaf level, which makes the reverse iteration possible.
 
+Unlike Binary Trees, B-Trees are build up from the leaves, instead of down from the root.
+
+## B-Tree Lookup Complexity
+Complexity can be viewed from two perspectives: Number of block transfers (seeks) and number of comparisons done during the lookup.
+
+Seeks are $log_{N} \, M$ where $N$ is the number of keys per node, and $M$ is the total number of keys in the tree.
+
+Comarisons are $log_{2} \, M$.
+
+## The B-Tree Lookup Algorithm
+To find an item, we must perform a single traversal from root to leaf, aiming to find a searched key or its predecessor. Finding the exact key is used for point queries, updates, and deletions. Predecessors are used for range scans and inserts.
+
+The algorithm starts from the root and performs a binary search, comparing the search key with the keys stored in the root node until it finds the first separator key that is greater than the searched key.
+
+Each time we move down a level of the tree, we narrow the scan range.
+
+**All the data records are stored in the leaves**. The non-leaf nodes only contain pointers.
+
+Each computing device will have its own optimal page size, $k$.
+
+
+## B-Tree Node Splits
+This chapter describes the process used to handle the case where inserts cause overflows in a nodes size.
+
+Non-leaf node splits occur when splits occur below and need to be resolved recursively. When a parents does not have enough space to split, it propogates the split upward, all the way to the root if necessary.
+
+To summarize, node splits are done in four steps:
+Allocate a new node.
+Copy half the elements from the splitting node to the new one.
+Place the new element into the corresponding node.
+At the parent of the split node, add a separator key and a pointer to the new node.
+
+## B-Tree Node Merges
+
+Nodes can also underflow, meaning that they need to be redistributed to achieve balance.
+
+To summarize, node merges are done in three steps, assuming the element is already removed:
+Copy all elements from the right node to the left one.
+Remove the right node pointer from the parent (or demote it in the case of a nonleaf merge).
+Remove the right node
+
+
+**B-Trees are very good on-disk storage structures because they have high fanout and infrequent balancing operations.**
+
+
+# CHAPTER 3: FILE FORMATS
+
+It is useful to think of on-disk B-Trees as a page management mechanism: algorithms have to compose and navigate pages.
+
+Most of the complexity in B-Trees comes from mutability.
+
+## Motivation
+
+## Binary Encoding
+
+Primitive Types:
+- Big Endian vs Little Endian
+
+Strings and Variable Sized Data:
+- "Pascal Strings" representent strings as a number that signifies length, followed by the bytes that make up the string. The alternative to Pascal Strings is "null-terminated" strings. Pascal strings are favored because they allow constant time length determination.
+
+Bit Packed Data: Booleans, Enums, and Flags:
+- Booleans are usually packed together, 8 per byte whenever possible.
+- Packed booleans are sometimes called "flags"
+
+General Principles:
+- Files usually start with a fixed-sized "header", and may end with a fixed-sized "trailer".
+- The rest of the file usually contains "pages".
+- Fixed schema allows reduction of storage footprint, because offsets can be used instead of field names.
+- Records often put the fixed-sized fields first, and the variable-sized fields last.
+
+## Page Structure
+- Page sizes usually range from 4 - 16 kb.
+- Each node occupies one page, or multiple pages linked together.
+- "node", "page", and "block" are typically used interchangeably.
+- The original B-Tree paper described an structure involving a sequence of triplets (key, value, pointer). This only worked for fixed-sized values, and required relocation when insertions happen anywhere besides the end of the sequence.
+
+## Slotted Pages
+
+When storing variable-sized records, the main problem is **free space management**: Reclaiming the space occupied by removed records.
+
+We can simplify this problem by splitting pages into fixed-sized segments, but this still ends up wasting space because blocks are only partially filled.
+
+**We need a page format that allows us to:
+- store variable-sized records with minimal overhead
+- reclaim space occupied by the removed records
+- reference records in page without regard to their exact location.
+
+**Slotted Page** formats solve this problem by organizing pages into a collection of "slots" or "cells", and splitting pointers and cells into two independent regions on opposite sides of the page. **This means that we only need to reorganize pointers addressing cells to preserve the order, and deleting a record can be done by either nullifying a pointer, or removing it.** 
+
+A slotted page has a fixed-sized header that holds important information about the page and cells. Cells may differ in size, and hold arbitrary data: Keys, pointers, data records, etc..
+
+Many databases use slotted pages, such as PostgreSQL.
+
+Let’s see how this approach fixes the problems we stated in the beginning of this section:
+- Minimal overhead: the only overhead incurred by slotted pages is a pointer array holding offsets to the exact positions where the records are stored.
+- Space reclamation: space can be reclaimed by defragmenting and rewriting the page.
+- Dynamic layout: from outside the page, slots are referenced only by their IDs, so the exact location is internal to the page.
+
+## Cell Layout
